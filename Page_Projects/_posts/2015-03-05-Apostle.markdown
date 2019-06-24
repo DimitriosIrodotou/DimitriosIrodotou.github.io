@@ -1,0 +1,42 @@
+---
+layout: post
+title: "The APOSTLE Project"
+date: 2015-03-05
+description: "A suite of cosmological hydro-dynamic simulations of twelve volumes selected to match the kinematics 
+of the Local Group members."
+image: /assets/images/Apostle.png
+tags: [Apostle, EAGLE, GADGET]
+---
+
+<img src="/assets/images/Apostle.png" alt="Evolution of gas density" style="display: block; margin-left: auto; 
+margin-right: auto; width: 75%"/>
+<figcaption>Evolution of gas density (red colours) and stellar density (blue colours) in a comoving volume of side 
+length 150 × 200 kpc/h.</figcaption>
+ 
+---
+
+<h1 align="center">About</h1>
+
+The APOSTLE (A Project Of Simulating The Local Environment) began as an offshoot of the 
+<a href="{{ '/2014/11/11/EAGLE' | prepend: site.baseurl }}">EAGLE</a> collaboration.
+
+It was started by Till Sawala, Carlos Frenk, Azadeh Fattahi and Julio Navarro in 
+2013, and has now grown to a large international collaboration. To date, more than 20 papers based directly on 
+APOSTLE data have been written by more than 30 different co-authors from Argentina, Belgium, Canada, Chile, China, 
+Finland, Germany, Iran, Ireland, Italy, Mexico, the Netherlands, Poland, Romania, Switzerland, the UK and the US.
+
+<img src="/assets/images/Apostle2.png" alt="dark matter substructures with the stellar light" style="float: 
+left; width:100%; height:100%;"/>
+<figcaption>The two panels contrast the vast number of dark matter substructures (left) with the stellar light 
+distribution (right) in a 2 Mpc cube.</figcaption>
+ 
+---
+
+<h1 align="center">References</h1>
+
+The initial paper for "The APOSTLE Project" has been published as 
+[Sawala et al. 2015](https://academic.oup.com/mnras/article/448/3/2941/1084323){:target="_blank"}.
+For more information and relevant publications please visit
+[Sawala's](https://blogs.helsinki.fi/sawala/the-apostle-collaboration/){:target="_blank"}
+project description page or contact
+[Till Sawala](https://tuhat.helsinki.fi/portal/en/persons/till-sawala(2db0b7fc-d2f0-4cf7-9907-e8c88b1a24fd).html){:target="_blank"}.

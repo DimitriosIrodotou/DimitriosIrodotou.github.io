@@ -1,0 +1,37 @@
+---
+layout: post
+title: "The GIMIC Project"
+date: 2009-11-02
+description: "A campaign of large-scale hydrodynamical simulations of the Lambda-Cold Dark Matter Universe." 
+image: /assets/images/GIMIC2.png
+tags: [GIMIC, GADGET]
+---
+
+<img src="/assets/images/GIMIC2.png" alt="GIMIC simulation" style="display: block; margin-left: auto; margin-right: 
+auto; width: 75%"/>
+<figcaption>GIMIC simulates clusters, galaxies and IGM.</figcaption>
+ 
+---
+
+<h1 align="center">About</h1>
+
+GIMIC (Galaxy-Intergalactic Medium Interaction Calculatio) pioneered the use of zoomed initial conditions 
+as a means to enable relatively expensive hydrodynamical simulations to sample a range of cosmic environments 
+similar to that probed by low-redshift galaxy surveys such as the Sloan Digital Sky Survey (SDSS). 
+ 
+It also demonstrated that the large-scale cosmic environment (physical scales > 1 Mpc) impacts only upon the number 
+density of galaxies; at fixed mass, the properties of galaxies are similar across all large-scale environments.
+
+<img src="/assets/images/GIMIC.jpg" alt="GIMIC followed regions" style="float: left;width:100%; height:100%;"/>
+<figcaption>GIMIC followed regions embedded in the Millennium Simulation.</figcaption>
+ 
+---
+
+<h1 align="center">Reference</h1>
+
+The initial paper for "The GIMIC Project" has been published as 
+[Crain et al. 2009](https://academic.oup.com/mnras/article/399/4/1773/1032849){:target="_blank"}. 
+For more information and relevant publications please visit
+[Crain's](http://www.astro.ljmu.ac.uk/~astrcrai/?page_id=681){:target="_blank"}
+project description page or contact
+[Robert Crain](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/astrophysics-research-institute/robert-crain){:target="_blank"}.

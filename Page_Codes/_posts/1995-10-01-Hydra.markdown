@@ -1,0 +1,38 @@
+---
+layout: post
+title: "The Hydra Code"
+date: 1995-10-01
+description: "An adaptive technique for calculating the gravitational and hydrodynamical forces within a box." 
+image: /assets/images/Hydra.png
+tags: [Hydra, Hubble, GIF]
+---
+
+<img src="/assets/images/Hydra.png" alt="Hydra gas particles" style="display: block; margin-left: auto; 
+margin-right: auto; width: 75%"/>
+<figcaption>The formation of large-scale sturcture in the dark matter distribution.</figcaption>
+ 
+---
+
+<h1 align="center">About</h1>
+
+Hydra is an N-body hydrodynamics code which uses a combination of Adaptive PPPM for the gravity and Smoothed Particle 
+Hydrodynamics for the gas forces. 
+
+The code evolves a mixture of purely gravitational and gas particles. It begins with a box containing a 
+large number of uniformly distributed particles whose positions and velocities are perturbed in a physically 
+motivate manner and then the motion of every particle is followed through time.
+
+<video controls autoplay><source src="/assets/videos/Hydra.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<figcaption>The animation shows the formation of large-scale sturcture in the dark matter distribution, from 
+redshift z=20 to the present time. The movie is centered on a forming rich cluster of galaxies.</figcaption>
+ 
+---
+
+<h1 align="center">Reference</h1>
+
+The initial paper for "The Hydra code" has been published as 
+[Couchman et al. 1995](https://ui.adsabs.harvard.edu/abs/1995ApJ...452..797C/abstract){:target="_blank"}.
+For more information please contact
+[Hugh Couchman](https://physics.mcmaster.ca/component/comprofiler/userprofile/couchman.html?Itemid=351){:target="_blank"}.

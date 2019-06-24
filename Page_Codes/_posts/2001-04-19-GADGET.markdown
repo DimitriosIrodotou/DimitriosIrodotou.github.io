@@ -1,0 +1,45 @@
+---
+layout: post
+title: "The GADGET Code"
+date: 2001-04-19
+description: "A freely available code for cosmological N-body/SPH simulations." 
+image: /assets/images/GADGET.jpeg
+tags: [GADGET, EAGLE, Hydrangea, BAHAMAS, Apostle, OWLS, GIMIC, Aquarius, Millennium]
+---
+
+<img src="/assets/images/GADGET.jpeg" alt="GADGET" style="display: block; margin-left: auto; 
+margin-right: auto; width: 75%"/>
+<figcaption>Hot “bubbles” in the IGM that develop as a result of impinging galactic winds. These bubbles are filled 
+with gas with temperatures up to 10^6 K, as seen in this projected mass-weighted temperature map.</figcaption>
+ 
+---
+
+<h1 align="center">About</h1>
+
+GADGET computes gravitational forces with a hierarchical tree algorithm (optionally in combination with a 
+particle-mesh scheme for long-range gravitational forces) and represents fluids by means of smoothed particle 
+hydrodynamics (SPH).
+
+The code can be used for studies of isolated systems, or for simulations that include the cosmological expansion of 
+space, both with or without periodic boundary conditions. In all these types of simulations, GADGET follows the 
+evolution of a self-gravitating collisionless N-body system, and allows gas dynamics to be optionally included. Both
+the force computation and the time stepping of GADGET are fully adaptive, with a dynamic range which is, in 
+principle, unlimited. 
+
+<video controls autoplay><source src="/assets/videos/GADGET.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<figcaption>Time evolution of a galaxy merger over a period of 2 billion years. Only the gas distribution is shown, 
+where brightness increases with gas density while the color hue encodes the gas temperature, from blue/cold to 
+yellow/hot.</figcaption>
+ 
+---
+
+<h1 align="center">Reference</h1>
+
+The initial paper for "The GADGET code" has been published as 
+[Springel et al. 2001](https://www.sciencedirect.com/science/article/pii/S1384107601000422?via%3Dihub){:target="_blank"}. 
+For more information and relevant publications please visit
+[MPA's](https://wwwmpa.mpa-garching.mpg.de/gadget/){:target="_blank"}
+project description page or contact
+[Volker Springel](https://www.mpa-garching.mpg.de/person/55019/2377){:target="_blank"}.

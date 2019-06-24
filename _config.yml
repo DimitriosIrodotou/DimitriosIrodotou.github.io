@@ -1,0 +1,60 @@
+# Site/SEO settings
+email: dimitrios.irodotou@sussex.ac.uk
+baseurl: ""
+paginate: 12 # number of posts per page
+paginate_path: "/page/:num"
+permalink: /:year/:month/:day/:title/
+google_analytics:
+
+name: Dimitrios Irodotou
+title: The Virgo Consortium
+#description:
+#url:
+#twitter_username:
+default_img: /assets/images/Logo.jpg
+social:
+#  - name: twitter
+#    url:
+#  - name: instagram
+#    url:
+#  - name: linkedin
+#    url:
+#  - name: github
+#    url:
+#  - name: codepen
+#    url:
+
+# Contact settings
+contact_img: /assets/images/Logo2.png
+formcarry: dimitrios.irodotou@sussex.ac.uk
+
+# Disqus settings
+disqus: test-apkdzgmqhj
+
+# MailChimp settings
+mailchimp_action:
+mailchimp_input:
+
+# Author settings
+author:
+  - name: Dimitrios Irodotou
+    bio:
+    url:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - node_modules
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md

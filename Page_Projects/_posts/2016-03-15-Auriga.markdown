@@ -1,0 +1,45 @@
+---
+layout: post
+title: "The Auriga Project"
+date: 2016-03-15
+description: "A large suite of high-resolution magneto-hydrodynamical simulations of Milky Way-sized galaxies."
+image: /assets/images/Auriga.png
+tags: [Auriga, Auriga_Data, AREPO]
+ 
+---
+<img src="/assets/images/Auriga.png" alt="A sample of Auriga galaxies" style="display: block; margin-left: auto; 
+margin-right: auto; width: 75%"/>
+<figcaption>A sample of Auriga galaxies.</figcaption>
+ 
+---
+
+<h1 align="center">About</h1>
+
+The Auriga Projectis a large suite of high-resolution magneto-hydrodynamical simulations of 
+Milky Way-sized galaxies, simulated in a fully cosmological environment by means of the 'zoom-in' technique. It is 
+simulated with the state-of-the-art hydrodynamic moving mesh code AREPO, and includes a comprehensive galaxy 
+formation model based on the successful cosmological simulation Illustris.
+
+An important step towards our understanding of galaxy formation is to simulate successfully the formation and 
+evolution of Milky Way mass, disc galaxies in a fully cosmological context. From a cosmological perspective, Milky
+Way mass disc galaxies are of particular interest because they lie between the low and high mass regimes thought to
+be dominated by supernova and active galactic nuclei (AGN) feedback,respectively, and are therefore ideal targets 
+to test the models of feedback designed to reproduce whole galaxy populations.
+
+<video controls autoplay><source src="/assets/videos/Auriga.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<figcaption>Movie showing the evolution of one of the simulations from very high redshift to present day. The movie 
+fades between dark matter density, gas density, stars, metallicity and magnetic field strength. In the last of 
+these, field lines indicate the directions of the magnetic field.</figcaption>
+ 
+---
+
+<h1 align="center">References</h1>
+
+The initial paper for "The Auriga Project" has been published as
+[Grand et al. 2016](https://academic.oup.com/mnras/article/459/1/199/2608880){:target="_blank"}.
+For more information and relevant publications please visit
+[MPA's](https://wwwmpa.mpa-garching.mpg.de/auriga/index.html){:target="_blank"}
+project description page or contact
+[Robert Grand](https://www.mpa-garching.mpg.de/person/96670/2377){:target="_blank"}.

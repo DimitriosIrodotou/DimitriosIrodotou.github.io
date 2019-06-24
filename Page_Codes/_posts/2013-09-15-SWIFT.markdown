@@ -1,0 +1,40 @@
+---
+layout: post
+title: "The SWIFT Code"
+date: 2013-09-15
+description: "A hydrodynamics and gravity code for astrophysics and cosmology." 
+image: /assets/images/SWIFT.png
+tags: [SWIFT]
+---
+
+<img src="/assets/images/SWIFT.png" alt="Simulation setup test" style="display: block; margin-left: auto; 
+margin-right: auto; width: 75%"/>
+<figcaption>The initial particle distributions used in the tests were extracted by resampling low-redshift outputs 
+of the EAGLE project. The density of the particles spans 8 orders of magnitude, requiring smoothing lengths changing
+by a factor of almost 1000 across the simulation volume.</figcaption>
+ 
+---
+
+<h1 align="center">About</h1>
+
+SWIFT is a computer program designed for running on supercomputers that simulates forces upon matter due to two main 
+things: gravity and hydrodynamics (forces that arise from fluids such as viscosity). The creation and evolution of 
+stars and black holes is also modelled together with the effects they have on their surroundings. This turns out to 
+be quite a complicated problem as we can't build computers large enough to simulate everything down to the level of 
+individual atoms. This implies that we need to re-think the equations that describe the matter components and how 
+they interact with each other. In practice, we must solve the equations that describe these problems numerically, 
+which requires a lot of computing power and fast computer code.
+
+We use SWIFT to run simulations of astrophysical objects, such as planets, galaxies, or even the whole universe. We 
+do this to test theories about what the universe is made of and how it evolved from the Big Bang up to the present day!
+ 
+---
+
+<h1 align="center">Reference</h1>
+
+The initial paper for "The SWIFT code" has been released by 
+[Gonnet et al. 2013](https://ui.adsabs.harvard.edu/abs/2013arXiv1309.3783G/abstract){:target="_blank"}. 
+For more information and relevant publications please visit
+[Durham's](http://swift.dur.ac.uk){:target="_blank"}
+project description page or contact
+[Matthieu Schaller](https://www.mpa-garching.mpg.de/person/55019/2377){:target="_blank"}.

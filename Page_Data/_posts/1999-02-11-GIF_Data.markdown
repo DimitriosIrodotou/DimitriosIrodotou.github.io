@@ -1,0 +1,23 @@
+---
+layout: post
+title: "GIF Project — Data"
+date: 1999-02-11
+description: 
+image: /assets/images/GIF_Data.png
+tags: [GIF_Data, GIF]
+---
+
+<img src="/assets/images/GIF_Data.png" alt="Projected matter distribution" style="display: block; margin-left: 
+auto; margin-right: auto; width: 75%"/>
+<figcaption>One of the clusters from the tauCDM simulation at z=0. The size of the region shown is 21 × 21 × 8 Mpc/h
+.</figcaption>
+ 
+---
+
+<h1 align="center">Data</h1>
+
+Galaxy catalogues and dark halo catalogues produced by the GIF project can be found 
+[here](https://wwwmpa.mpa-garching.mpg.de/galform/gif/index.shtml#data){:target="_blank"}.
+
+For more information please contact
+[Guinevere Kauffmann](https://www.mpa-garching.mpg.de/person/44092/2377){:target="_blank"}.

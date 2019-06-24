@@ -1,0 +1,20 @@
+<article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    <a class="posts__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
+        {% if post.image %}
+        <figure class="posts__img">
+            <img src="{{ post.image }}" alt="{{ post.title }}" data-aos="fade-in" itemprop="image"/>
+        </figure>
+        {% endif %}
+        {% if post.description %}
+        <div>
+            <h2 class="posts__text"><strong itemprop="name">{{ post.title }} — </strong> <span
+                    itemprop="description">{{ post.description | strip_html | truncatewords: 50, "" }}</span>
+            </h2>
+        </div>
+        {% else %}
+        <div>
+            <h2 class="posts__text"><strong itemprop="name">{{ post.title }}</strong></h2>
+        </div>
+        {% endif %}
+    </a>
+</article>

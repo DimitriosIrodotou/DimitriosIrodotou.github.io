@@ -1,0 +1,41 @@
+---
+layout: post
+title: "The GIF Project"
+date: 1999-02-11
+description: "A study of the formation and evolution of galaxies using semi-analytical galaxy 
+formation models embedded in large high-resolution N-body simulations." 
+image: /assets/images/GIF.png
+tags: [GIF, GIF_Data, Hydra]
+---
+
+<img src="/assets/images/GIF.png" alt="Dark matter distribution of GIF" style="display: block; margin-left: auto; 
+margin-right: auto; width: 75%"/>
+<figcaption>Dark matter distribution of GIF boxes of four different cosmologies (z=3, 2, 1, and 0).</figcaption>
+ 
+---
+
+<h1 align="center">About</h1>
+
+The GIF (Germany and Israel Foundation) project was a joint effort of astrophysicists from Germany and Israel. 
+Scientists involved in the GIF 
+project combined the large high-resolution N-body simulations with semi-analytical models to study formation and 
+evolution of galaxies. 
+
+The simulations include detailed phenomenological modelling of gas cooling, of star formation, of stellar population
+evolution, of feedback from massive stars and supernovae, and of galaxy merging. In some cases, chemical evolution 
+of the interstellar medium of galaxies and of the hot intergalactic medium is also included.
+
+<img src="/assets/images/GIF2.png" alt="A slice of GIF" style="float: left;width:100%; height:100%;"/>
+<figcaption>A slice of thickness 8 Mpc/h through the whole simulation box (which is 85 Mpc/h on a side). The colours
+now denote the B-V colours of the galaxies, ranging from red for ellipticals to blue for irregulars.</figcaption>
+ 
+---
+
+<h1 align="center">Reference</h1>
+
+The initial paper for "The GIF Project" has been published as 
+[Kauffmann et al. 1999](https://academic.oup.com/mnras/article/303/1/188/1142139){:target="_blank"}. 
+For more information please visit 
+[MPA's](https://wwwmpa.mpa-garching.mpg.de/galform/gif/index.shtml){:target="_blank"}
+project description page or contact
+[Guinevere Kauffmann](https://www.mpa-garching.mpg.de/person/44092/2377){:target="_blank"}.

@@ -1,0 +1,42 @@
+---
+layout: post
+title: "The AREPO Code"
+date: 2010-01-05
+description: "A cosmological hydrodynamical simulation code on a fully dynamic unstructured mesh." 
+image: /assets/images/AREPO.png
+tags: [AREPO, Auriga]
+---
+
+<img src="/assets/images/AREPO.png" alt="Kelvin Helmholtz instability" style="display: block; margin-left: auto; 
+margin-right: auto; width: 75%"/>
+<figcaption>The Kelvin Helmholtz instability calculated with the moving-mesh method. The figure shows the density 
+field with the Voronoi mesh overlaid in black.</figcaption>
+ 
+---
+
+<h1 align="center">About</h1>
+
+The AREPO code is based on a moving unstructured mesh defined by the Voronoi tessellation of a set of discrete points
+. The mesh is used to solve the hyperbolic conservation laws of ideal hydrodynamics with a finite volume approach, 
+based on a second-order unsplit Godunov scheme with an exact Riemann solver.
+
+This method is fully Galilean-invariant, unlike ordinary Eulerian codes, a property that is of 
+significant importance for cosmological simulations where highly supersonic bulk flows are common. In addition, it can
+adjust its spatial resolution automatically and continuously, and hence inherits the principal advantage of SPH for 
+simulations of cosmological structure growth.
+
+<img src="/assets/images/Arepo2.png" alt="Deep wedge of LCDM" style="float: left;width:100%; 
+height:100%;"/>
+<figcaption>Time evolution of the mixing of two fluids induced by the motion of a solid object. This test illustrates
+the ability of AREPO to cope with arbitrarily curved, moving boundary conditions.</figcaption>
+ 
+---
+
+<h1 align="center">Reference</h1>
+
+The initial paper for "The AREPO code" has been published as 
+[Springel 2010](https://academic.oup.com/mnras/article/401/2/791/1147356){:target="_blank"}. 
+For more information and relevant publications please visit
+[HITS's](https://www.h-its.org/arepo/){:target="_blank"}
+project description page or contact
+[Volker Springel](https://www.mpa-garching.mpg.de/person/55019/2377){:target="_blank"}.

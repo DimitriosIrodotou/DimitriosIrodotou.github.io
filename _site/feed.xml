@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Virgo Consortium</title>
+    <description></description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 24 Jun 2019 15:35:49 +0100</pubDate>
+    <lastBuildDate>Mon, 24 Jun 2019 15:35:49 +0100</lastBuildDate>
+    <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>The Hydrangea Project</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/Hydrangea.png&quot; alt=&quot;The most massive galaxy cluster&quot; style=&quot;display: block; margin-left:  auto; margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Visualization of the most massive galaxy cluster simulated as part of the Hydrangea project. The 
+brightness of the image represents the gas density, while the colour encodes the temperature of the gas (blue: cold, 
+white: hot).&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;The Hydrangea Project, led by Yannick Bahé and involving researchers in Germany, the 
+UK, the Netherlands, and Spain, is a large suite of 24 simulations of massive galaxy clusters. These simulations 
+employ the so-called “zoom-in” technique, which focuses computing power on a relatively small region (with a 
+diameter approximately 100 million light years). This core region was carefully selected to contain a massive 
+galaxy cluster, within a total volume that is many thousand times larger.&lt;/p&gt;
+
+&lt;p&gt;In total, the Hydrangea simulations contain more than 20,000 galaxies. The full analysis of the simulations is an 
+ongoing effort that will take several years to complete. This effort will allow astrophysicists to gain 
+ground-breaking new insight into how galaxies interact with their cluster environment. This will significantly 
+improve our understanding of how the structures we see in the Universe formed and evolved over the last 13.7 billion
+years.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Hydrangea2.jpg&quot; alt=&quot;Projected gas density&quot; style=&quot;float: left; width:100%; height:100%;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Projected gas density is shown on the left, gas temperature on the right (white is hottest, black 
+coldest).&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The Hydrangea Project” has been published as 
+&lt;a href=&quot;https://academic.oup.com/mnras/article/470/4/4186/3868206&quot; target=&quot;_blank&quot;&gt;Bahé et al. 2017&lt;/a&gt;.
+For more information please visit
+&lt;a href=&quot;https://www.mpa-garching.mpg.de/399296/hl201701&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
+monthly highlight article or
+&lt;a href=&quot;https://www.gauss-centre.eu/nc/results/astrophysics/article/hydrangea-simulating-the-formation-of-galaxies-in-clusters/?cHash=17ccc14d442d1180ea62105d7d7bb348&amp;amp;sword_list%5B0%5D=hydrangea&quot; target=&quot;_blank&quot;&gt;GCS’s&lt;/a&gt;
+project description page or contact
+&lt;a href=&quot;https://www.universiteitleiden.nl/en/staffmembers/yannick-bahe#tab-1&quot; target=&quot;_blank&quot;&gt;Yannick Bahé&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Jun 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2017/06/14/Hydrangea/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/06/14/Hydrangea/</guid>
+        
+        <category>Hydrangea</category>
+        
+        <category>GADGET</category>
+        
+        
+        <category>Page_Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>The BAHAMAS Project</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/BAHAMAS.jpg&quot; alt=&quot;BAHAMAS light cone maps&quot; style=&quot;display: block; margin-left: auto;  margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;BAHAMAS explores plausible extensions of the LCDM model, including massive neutrino cosmologies, 
+time-variable dark energy models and modified gravity models.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;The BAHAMAS (BAryons and HAloes of MAssive Systems) project is a large-volume, cosmological simulations 
+which was developed as part of the OWLS project. It is a first attempt to calibrate the feedback on the total baryon 
+content of haloes and is the first study to explicitly calibrate the feedback on the observed properties of massive 
+haloes.&lt;/p&gt;
+
+&lt;p&gt;The BAHAMAS project extends the calibration philosophy used by 
+&lt;a href=&quot;/2014/11/11/EAGLE&quot;&gt;EAGLE&lt;/a&gt;
+to also include the gas fractions of groups and clusters (since the hot gas dominates over the stellar mass fraction
+in such systems) which is crucially important when trying to constrain feedback models.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/BAHAMAS2.png&quot; alt=&quot;BAHAMAS light cone maps&quot; style=&quot;float:  left; width:100%; height:100%;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The three panels show 17′ × 17′ cut-outs from the BAHAMAS light cone maps. From left to right the panels 
+show the tSZ signal, the X-ray flux and the lensing convergence, centred on the most massive cluster.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The BAHAMAS Project” has been published as 
+&lt;a href=&quot;https://academic.oup.com/mnras/article/465/3/2936/2417021&quot; target=&quot;_blank&quot;&gt;McCarthy et al. 2016&lt;/a&gt;.
+For more information and relevant publications please visit
+&lt;a href=&quot;http://www.astro.ljmu.ac.uk/~igm/BAHAMAS/index.html&quot; target=&quot;_blank&quot;&gt;LJMU’s&lt;/a&gt;
+project description page or contact
+&lt;a href=&quot;https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/astrophysics-research-institute/ian-mccarthy&quot; target=&quot;_blank&quot;&gt;Ian McCarthy&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Oct 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/10/30/BAHAMAS/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/10/30/BAHAMAS/</guid>
+        
+        <category>BAHAMAS</category>
+        
+        <category>GADGET</category>
+        
+        
+        <category>Page_Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>The Auriga Project</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/Auriga.png&quot; alt=&quot;A sample of Auriga galaxies&quot; style=&quot;display: block; margin-left: auto;  margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;A sample of Auriga galaxies.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;The Auriga Projectis a large suite of high-resolution magneto-hydrodynamical simulations of 
+Milky Way-sized galaxies, simulated in a fully cosmological environment by means of the ‘zoom-in’ technique. It is 
+simulated with the state-of-the-art hydrodynamic moving mesh code AREPO, and includes a comprehensive galaxy 
+formation model based on the successful cosmological simulation Illustris.&lt;/p&gt;
+
+&lt;p&gt;An important step towards our understanding of galaxy formation is to simulate successfully the formation and 
+evolution of Milky Way mass, disc galaxies in a fully cosmological context. From a cosmological perspective, Milky
+Way mass disc galaxies are of particular interest because they lie between the low and high mass regimes thought to
+be dominated by supernova and active galactic nuclei (AGN) feedback,respectively, and are therefore ideal targets 
+to test the models of feedback designed to reproduce whole galaxy populations.&lt;/p&gt;
+
+&lt;video controls=&quot;&quot; autoplay=&quot;&quot;&gt;&lt;source src=&quot;/assets/videos/Auriga.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;figcaption&gt;Movie showing the evolution of one of the simulations from very high redshift to present day. The movie 
+fades between dark matter density, gas density, stars, metallicity and magnetic field strength. In the last of 
+these, field lines indicate the directions of the magnetic field.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The Auriga Project” has been published as
+&lt;a href=&quot;https://academic.oup.com/mnras/article/459/1/199/2608880&quot; target=&quot;_blank&quot;&gt;Grand et al. 2016&lt;/a&gt;.
+For more information and relevant publications please visit
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/auriga/index.html&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
+project description page or contact
+&lt;a href=&quot;https://www.mpa-garching.mpg.de/person/96670/2377&quot; target=&quot;_blank&quot;&gt;Robert Grand&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2016/03/15/Auriga/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/03/15/Auriga/</guid>
+        
+        <category>Auriga</category>
+        
+        <category>Auriga_Data</category>
+        
+        <category>AREPO</category>
+        
+        
+        <category>Page_Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Auriga Project — Data</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/Auriga_Data.png&quot; alt=&quot;Montage of three-colour all-sky maps&quot; style=&quot;display: block;  margin-left: auto; margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Montage of three-colour all-sky maps for stars at different distances in one of the synthetic Gaia 
+stellar catalogues as viewed from a solar-like position in Equatorial coordinates.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Data&lt;/h1&gt;
+
+&lt;p&gt;Information and documentation on how to use the catalogues, links to download the data, supplementary material and 
+example scripts that can be used to read and extract relevant data can be found
+&lt;a href=&quot;https://auriga.h-its.org/gaiamock.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In addition, a table listing the properties of HI discs in the Auriga simulations can be found 
+&lt;a href=&quot;https://auriga.h-its.org/data.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more information please contact
+&lt;a href=&quot;https://www.mpa-garching.mpg.de/person/96670/2377&quot; target=&quot;_blank&quot;&gt;Robert Grand&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2016/03/15/Auriga_Data/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/03/15/Auriga_Data/</guid>
+        
+        <category>Auriga_Data</category>
+        
+        <category>Auriga</category>
+        
+        
+        <category>Page_Data</category>
+        
+      </item>
+    
+      <item>
+        <title>The APOSTLE Project</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/Apostle.png&quot; alt=&quot;Evolution of gas density&quot; style=&quot;display: block; margin-left: auto;  margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Evolution of gas density (red colours) and stellar density (blue colours) in a comoving volume of side 
+length 150 × 200 kpc/h.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;The APOSTLE (A Project Of Simulating The Local Environment) began as an offshoot of the 
+&lt;a href=&quot;/2014/11/11/EAGLE&quot;&gt;EAGLE&lt;/a&gt; collaboration.&lt;/p&gt;
+
+&lt;p&gt;It was started by Till Sawala, Carlos Frenk, Azadeh Fattahi and Julio Navarro in 
+2013, and has now grown to a large international collaboration. To date, more than 20 papers based directly on 
+APOSTLE data have been written by more than 30 different co-authors from Argentina, Belgium, Canada, Chile, China, 
+Finland, Germany, Iran, Ireland, Italy, Mexico, the Netherlands, Poland, Romania, Switzerland, the UK and the US.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Apostle2.png&quot; alt=&quot;dark matter substructures with the stellar light&quot; style=&quot;float:  left; width:100%; height:100%;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The two panels contrast the vast number of dark matter substructures (left) with the stellar light 
+distribution (right) in a 2 Mpc cube.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The APOSTLE Project” has been published as 
+&lt;a href=&quot;https://academic.oup.com/mnras/article/448/3/2941/1084323&quot; target=&quot;_blank&quot;&gt;Sawala et al. 2015&lt;/a&gt;.
+For more information and relevant publications please visit
+&lt;a href=&quot;https://blogs.helsinki.fi/sawala/the-apostle-collaboration/&quot; target=&quot;_blank&quot;&gt;Sawala’s&lt;/a&gt;
+project description page or contact
+&lt;a href=&quot;https://tuhat.helsinki.fi/portal/en/persons/till-sawala(2db0b7fc-d2f0-4cf7-9907-e8c88b1a24fd).html&quot; target=&quot;_blank&quot;&gt;Till Sawala&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2015/03/05/Apostle/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/03/05/Apostle/</guid>
+        
+        <category>Apostle</category>
+        
+        <category>EAGLE</category>
+        
+        <category>GADGET</category>
+        
+        
+        <category>Page_Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>The EAGLE Project</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/EAGLE.png&quot; alt=&quot;A slice through the simulation volume&quot; style=&quot;display: block; margin-left:  auto; margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;A slice through the simulation volume, with the intergalactic gas colour coded from blue to green to 
+red with increasing temperature.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;EAGLE (Evolution and Assembly of GaLaxies and their Environments) is a simulation aimed at understanding how galaxies
+form and evolve. This computer calculation models the formation of structures in a cosmological volume, 100 
+Megaparsecs on a side (over 300 million light-years). This is large enough to contain 10,000 galaxies of the size of
+the Milky Way or bigger, enabling a comparison with the whole zoo of galaxies visible in the Hubble Deep field for 
+example.&lt;/p&gt;
+
+&lt;p&gt;In EAGLE supermassive black holes can grow in mass by accreting gas, and by merging with other black holes. When 
+they accrete gas they can occasionally become active and become a quasar. Such violent outburst from the 
+supermassive black hole limit star formation in massive galaxies by expelling gas (the raw fuel for star formation) 
+from the galaxy. This makes them a crucial ingredient of the simulation.&lt;/p&gt;
+
+&lt;video controls=&quot;&quot; autoplay=&quot;&quot;&gt;&lt;source src=&quot;/assets/videos/EAGLE.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;figcaption&gt;AGN feedback from supermassive black holes in the centre of simulated galaxies.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The EAGLE Project” has been published as
+&lt;a href=&quot;https://academic.oup.com/mnras/article/446/1/521/1316115&quot; target=&quot;_blank&quot;&gt;Schaye et al. 2014&lt;/a&gt;.
+For more information and relevant publications please visit 
+&lt;a href=&quot;http://icc.dur.ac.uk/Eagle/&quot; target=&quot;_blank&quot;&gt;Durham’s&lt;/a&gt; 
+or 
+&lt;a href=&quot;http://eagle.strw.leidenuniv.nl&quot; target=&quot;_blank&quot;&gt;Leiden’s&lt;/a&gt;
+project description page or contact
+&lt;a href=&quot;https://www.universiteitleiden.nl/en/staffmembers/joop-schaye#tab-1&quot; target=&quot;_blank&quot;&gt;Joop Schaye&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Nov 2014 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2014/11/11/EAGLE/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/11/11/EAGLE/</guid>
+        
+        <category>EAGLE</category>
+        
+        <category>EAGLE_Data</category>
+        
+        <category>OWLS</category>
+        
+        <category>Apostle</category>
+        
+        <category>GADGET</category>
+        
+        
+        <category>Page_Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>EAGLE Project — Data</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/EAGLE_Data.png&quot; alt=&quot;Dark matter density&quot; style=&quot;display: block; margin-left: auto;  margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The dark matter density in EAGLE haloes.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Data&lt;/h1&gt;
+
+&lt;p&gt;The EAGLE public database contains galaxy properties (such as masses, star formation rates, luminosites and 
+metallicities), merger histories and images for more than 1,000,000 simulated galaxies extracted from multiple 
+simulations of various box sizes, numerical resolutions and physical models. Additionally, it includes particle 
+data for each of these simulations.&lt;/p&gt;
+
+&lt;p&gt;Information of how to obtain these data along with the initial conditions can be found
+&lt;a href=&quot;http://icc.dur.ac.uk/Eagle/database.php&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;
+and
+&lt;a href=&quot;http://eagle.strw.leidenuniv.nl/index.php/data-products/initial-conditions/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more information please contact
+&lt;a href=&quot;https://www.universiteitleiden.nl/en/staffmembers/joop-schaye#tab-1&quot; target=&quot;_blank&quot;&gt;Joop Schaye&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Nov 2014 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2014/11/11/EAGLE_Data/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/11/11/EAGLE_Data/</guid>
+        
+        <category>EAGLE_Data</category>
+        
+        <category>EAGLE</category>
+        
+        
+        <category>Page_Data</category>
+        
+      </item>
+    
+      <item>
+        <title>The SWIFT Code</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/SWIFT.png&quot; alt=&quot;Simulation setup test&quot; style=&quot;display: block; margin-left: auto;  margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The initial particle distributions used in the tests were extracted by resampling low-redshift outputs 
+of the EAGLE project. The density of the particles spans 8 orders of magnitude, requiring smoothing lengths changing
+by a factor of almost 1000 across the simulation volume.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;SWIFT is a computer program designed for running on supercomputers that simulates forces upon matter due to two main 
+things: gravity and hydrodynamics (forces that arise from fluids such as viscosity). The creation and evolution of 
+stars and black holes is also modelled together with the effects they have on their surroundings. This turns out to 
+be quite a complicated problem as we can’t build computers large enough to simulate everything down to the level of 
+individual atoms. This implies that we need to re-think the equations that describe the matter components and how 
+they interact with each other. In practice, we must solve the equations that describe these problems numerically, 
+which requires a lot of computing power and fast computer code.&lt;/p&gt;
+
+&lt;p&gt;We use SWIFT to run simulations of astrophysical objects, such as planets, galaxies, or even the whole universe. We 
+do this to test theories about what the universe is made of and how it evolved from the Big Bang up to the present day!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The SWIFT code” has been released by 
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2013arXiv1309.3783G/abstract&quot; target=&quot;_blank&quot;&gt;Gonnet et al. 2013&lt;/a&gt;. 
+For more information and relevant publications please visit
+&lt;a href=&quot;http://swift.dur.ac.uk&quot; target=&quot;_blank&quot;&gt;Durham’s&lt;/a&gt;
+project description page or contact
+&lt;a href=&quot;https://www.mpa-garching.mpg.de/person/55019/2377&quot; target=&quot;_blank&quot;&gt;Matthieu Schaller&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Sep 2013 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2013/09/15/SWIFT/</link>
+        <guid isPermaLink="true">http://localhost:4000/2013/09/15/SWIFT/</guid>
+        
+        <category>SWIFT</category>
+        
+        
+        <category>Page_Codes</category>
+        
+      </item>
+    
+      <item>
+        <title>The OWLS Project</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/OWLS.jpeg&quot; alt=&quot;Zoom into a halo&quot; style=&quot;display: block; margin-left: auto; margin-right:  auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Zoom into a halo, from left to right, the images are 10, 1 and 0.1 Mpc/h on a side. The colour coding 
+shows the projected gas density.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;OWLS (OverWhelmingly Large Simulations) project consists of a large suite of cosmological, smoothed particle 
+hydrodynamics (SPH) simulations with varying box sizes and resolutions. It was made possible by the temporary 
+availability of the supercomputer that serves as the correlator for the Low Frequency Array (LOFAR) telescope, aims 
+to use the potential of simulations to gain insight into the physics that determines the formation of galaxies and 
+the intergalactic medium.&lt;/p&gt;
+
+&lt;p&gt;The real power of the project stems, however, not from the size of the simulations, but from the fact that they are 
+repeated many (more than 50) times, each time varying a subgrid prescription, most of which were newly developed  &lt;br /&gt;
+for this project.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/OWLS2.jpeg&quot; alt=&quot;Zoom into the tenth most massive halo&quot; style=&quot;float: left;width:100%;  height:100%;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Zoom into the tenth most massive halo, from left to right, the images are 40, 4 and 0.4 Mpc/h on a side. 
+The colour coding shows the projected gas density.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The OWLS Project” has been published as 
+&lt;a href=&quot;https://academic.oup.com/mnras/article/402/3/1536/988975&quot; target=&quot;_blank&quot;&gt;Schaye et al. 2010&lt;/a&gt;.
+For more information please contact
+&lt;a href=&quot;https://www.universiteitleiden.nl/en/staffmembers/joop-schaye#tab-1&quot; target=&quot;_blank&quot;&gt;Joop Schaye&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Feb 2010 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2010/02/12/OWLS/</link>
+        <guid isPermaLink="true">http://localhost:4000/2010/02/12/OWLS/</guid>
+        
+        <category>OWLS</category>
+        
+        <category>EAGLE</category>
+        
+        <category>GADGET</category>
+        
+        
+        <category>Page_Legacy</category>
+        
+      </item>
+    
+      <item>
+        <title>The AREPO Code</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/AREPO.png&quot; alt=&quot;Kelvin Helmholtz instability&quot; style=&quot;display: block; margin-left: auto;  margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The Kelvin Helmholtz instability calculated with the moving-mesh method. The figure shows the density 
+field with the Voronoi mesh overlaid in black.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;The AREPO code is based on a moving unstructured mesh defined by the Voronoi tessellation of a set of discrete points
+. The mesh is used to solve the hyperbolic conservation laws of ideal hydrodynamics with a finite volume approach, 
+based on a second-order unsplit Godunov scheme with an exact Riemann solver.&lt;/p&gt;
+
+&lt;p&gt;This method is fully Galilean-invariant, unlike ordinary Eulerian codes, a property that is of 
+significant importance for cosmological simulations where highly supersonic bulk flows are common. In addition, it can
+adjust its spatial resolution automatically and continuously, and hence inherits the principal advantage of SPH for 
+simulations of cosmological structure growth.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Arepo2.png&quot; alt=&quot;Deep wedge of LCDM&quot; style=&quot;float: left;width:100%;  height:100%;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Time evolution of the mixing of two fluids induced by the motion of a solid object. This test illustrates
+the ability of AREPO to cope with arbitrarily curved, moving boundary conditions.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The AREPO code” has been published as 
+&lt;a href=&quot;https://academic.oup.com/mnras/article/401/2/791/1147356&quot; target=&quot;_blank&quot;&gt;Springel 2010&lt;/a&gt;. 
+For more information and relevant publications please visit
+&lt;a href=&quot;https://www.h-its.org/arepo/&quot; target=&quot;_blank&quot;&gt;HITS’s&lt;/a&gt;
+project description page or contact
+&lt;a href=&quot;https://www.mpa-garching.mpg.de/person/55019/2377&quot; target=&quot;_blank&quot;&gt;Volker Springel&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Jan 2010 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2010/01/05/AREPO/</link>
+        <guid isPermaLink="true">http://localhost:4000/2010/01/05/AREPO/</guid>
+        
+        <category>AREPO</category>
+        
+        <category>Auriga</category>
+        
+        
+        <category>Page_Codes</category>
+        
+      </item>
+    
+      <item>
+        <title>The GIMIC Project</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/GIMIC2.png&quot; alt=&quot;GIMIC simulation&quot; style=&quot;display: block; margin-left: auto; margin-right:  auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;GIMIC simulates clusters, galaxies and IGM.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;GIMIC (Galaxy-Intergalactic Medium Interaction Calculatio) pioneered the use of zoomed initial conditions 
+as a means to enable relatively expensive hydrodynamical simulations to sample a range of cosmic environments 
+similar to that probed by low-redshift galaxy surveys such as the Sloan Digital Sky Survey (SDSS).&lt;/p&gt;
+
+&lt;p&gt;It also demonstrated that the large-scale cosmic environment (physical scales &amp;gt; 1 Mpc) impacts only upon the number 
+density of galaxies; at fixed mass, the properties of galaxies are similar across all large-scale environments.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/GIMIC.jpg&quot; alt=&quot;GIMIC followed regions&quot; style=&quot;float: left;width:100%; height:100%;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;GIMIC followed regions embedded in the Millennium Simulation.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The GIMIC Project” has been published as 
+&lt;a href=&quot;https://academic.oup.com/mnras/article/399/4/1773/1032849&quot; target=&quot;_blank&quot;&gt;Crain et al. 2009&lt;/a&gt;. 
+For more information and relevant publications please visit
+&lt;a href=&quot;http://www.astro.ljmu.ac.uk/~astrcrai/?page_id=681&quot; target=&quot;_blank&quot;&gt;Crain’s&lt;/a&gt;
+project description page or contact
+&lt;a href=&quot;https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/astrophysics-research-institute/robert-crain&quot; target=&quot;_blank&quot;&gt;Robert Crain&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2009 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2009/11/02/GIMIC/</link>
+        <guid isPermaLink="true">http://localhost:4000/2009/11/02/GIMIC/</guid>
+        
+        <category>GIMIC</category>
+        
+        <category>GADGET</category>
+        
+        
+        <category>Page_Legacy</category>
+        
+      </item>
+    
+      <item>
+        <title>The Aquarius Project</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/Aquarius.jpg&quot; alt=&quot;A comparison of different numerical resolutions&quot; style=&quot;display: block;  margin-left: auto; margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;A comparison of Aq-A halo at different numerical resolutions, ranging from just 800 000 particles in 
+Aq-A-5 to nearly 1.5 billion particles in Aq-A-1. The first image in the upper left shows the parent simulation, centred 
+on the halo.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;Aquarius simulations contains six examples of an isolated halo similar in mass to that of the Milky Way. 
+These are simulated in their full cosmological context (assuming the concordance LCDM cosmology) and at various 
+resolutions up to about 200 million particles (counted within the radius where the enclosed density is 200 times 
+the cosmic mean). One halo is also simulated at even higher resolution, resulting in almost 1.5 billion particles 
+within this radius.&lt;/p&gt;
+
+&lt;p&gt;These simulations are being used to understand the fine-scale structure predicted around the 
+Milky Way by the standard structure formation model, and as the basis for simulation by various techniques of the 
+growth of the stellar components of our Galaxy.&lt;/p&gt;
+
+&lt;video controls=&quot;&quot; autoplay=&quot;&quot;&gt;&lt;source src=&quot;/assets/videos/Aquarius.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;figcaption&gt;The formation of one of the Aquarius halos over nearly the full age of the Universe from redshift z~50 
+to z=0.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The Aquarius Project” has been published as 
+&lt;a href=&quot;https://academic.oup.com/mnras/article/391/4/1685/1747035&quot; target=&quot;_blank&quot;&gt;Springel et al. 2008&lt;/a&gt;. 
+For more information and relevant publications please visit 
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/aquarius/&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
+project description page or contact
+&lt;a href=&quot;https://www.mpa-garching.mpg.de/person/55019/2377&quot; target=&quot;_blank&quot;&gt;Volker Springel&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Dec 2008 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2008/12/11/Aquarius/</link>
+        <guid isPermaLink="true">http://localhost:4000/2008/12/11/Aquarius/</guid>
+        
+        <category>Aquarius</category>
+        
+        <category>GADGET</category>
+        
+        
+        <category>Page_Legacy</category>
+        
+      </item>
+    
+      <item>
+        <title>The Millennium Project</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/Millennium.jpg&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto; width:  75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;A projected density field for a 15 Mpc/h thick slice of the redshift z=0 output. The overlaid panels zoom
+in by factors of 4 in each case, enlarging the regions indicated by the white squares.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;The Millennium Simulation was the largest N-Body Simulation ever carried out back in 2005, containing over 10 
+billion particles. The simulation run by the Virgo Consortium using a cluster of 512 processors located at the Max 
+Planck Institute for Astrophysics in Garching, Germany. The simulations took a total of 28 days (~600 hours) of wall
+clock time, and thus consumed around 343 000 hours worth of cpu-time.&lt;/p&gt;
+
+&lt;p&gt;The Millennium simulation was the first of a series of related simulations of cosmological volumes. In 2008 a second 
+simulation was completed with the same cosmology, the same output structure and the same number of particles as the 
+Millennium Simulation, but in a 5 times smaller box and thus with 125 times better mass resolution.&lt;/p&gt;
+
+&lt;video controls=&quot;&quot; autoplay=&quot;&quot;&gt;&lt;source src=&quot;/assets/videos/Millennium.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;figcaption&gt;A 3-dimensional journey through a rich cluster of galaxies.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The Millennium Project” has been published as 
+&lt;a href=&quot;https://www.nature.com/articles/nature03597&quot; target=&quot;_blank&quot;&gt;Springel et al. 2005&lt;/a&gt;. 
+For more information and relevant publications please visit 
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/millennium/&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
+project description page or contact
+&lt;a href=&quot;https://www.mpa-garching.mpg.de/person/55019/2377&quot; target=&quot;_blank&quot;&gt;Volker Springel&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Jun 2005 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2005/06/02/Millennium/</link>
+        <guid isPermaLink="true">http://localhost:4000/2005/06/02/Millennium/</guid>
+        
+        <category>Millennium</category>
+        
+        <category>Millennium_Data</category>
+        
+        <category>GADGET</category>
+        
+        
+        <category>Page_Legacy</category>
+        
+      </item>
+    
+      <item>
+        <title>Millennium Project — Data</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/Millennium_Data.jpg&quot; alt=&quot;Slice through the density field&quot; style=&quot;display: block;  margin-left: auto; margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;A 15 Mpc/h thick slice through the density field at redshift z = 0.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Data&lt;/h1&gt;
+
+&lt;p&gt;The halo and subhalo data from two Millennium Simulations together with all the galaxies that form within these 
+structures for two independent models of the galaxy formation physics have been made public through databases at 
+&lt;a href=&quot;http://galaxy-catalogue.dur.ac.uk:8080/Millennium/&quot;&gt;Durham&lt;/a&gt; 
+and 
+&lt;a href=&quot;http://gavo.mpa-garching.mpg.de/Millennium/&quot;&gt;MPA Garching&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The databases have a Structured Query Language (SQL) query interface, and allow return of the data in a number of
+formats. This allows easy access to many properties of the galaxies and halos, as well as to the spatial and 
+temporal relations between them. There are two databases, one openly accessible with volume 1/512 of the full 
+simulation (‘milli-Millennium’), and one for the full simulation. The latter requires an account. Once the queries 
+needed for your project have been developed and tested using the milli-Millennium databases, this account can be 
+requested by e-mail.&lt;/p&gt;
+
+&lt;p&gt;For more information please contact
+&lt;a href=&quot;https://www.mpa-garching.mpg.de/person/55019/2377&quot; target=&quot;_blank&quot;&gt;Volker Springel&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Jun 2005 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2005/06/02/Millennium_Data/</link>
+        <guid isPermaLink="true">http://localhost:4000/2005/06/02/Millennium_Data/</guid>
+        
+        <category>Millennium_Data</category>
+        
+        <category>Millennium</category>
+        
+        
+        <category>Page_Data</category>
+        
+      </item>
+    
+      <item>
+        <title>The GADGET Code</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/GADGET.jpeg&quot; alt=&quot;GADGET&quot; style=&quot;display: block; margin-left: auto;  margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Hot “bubbles” in the IGM that develop as a result of impinging galactic winds. These bubbles are filled 
+with gas with temperatures up to 10^6 K, as seen in this projected mass-weighted temperature map.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;GADGET computes gravitational forces with a hierarchical tree algorithm (optionally in combination with a 
+particle-mesh scheme for long-range gravitational forces) and represents fluids by means of smoothed particle 
+hydrodynamics (SPH).&lt;/p&gt;
+
+&lt;p&gt;The code can be used for studies of isolated systems, or for simulations that include the cosmological expansion of 
+space, both with or without periodic boundary conditions. In all these types of simulations, GADGET follows the 
+evolution of a self-gravitating collisionless N-body system, and allows gas dynamics to be optionally included. Both
+the force computation and the time stepping of GADGET are fully adaptive, with a dynamic range which is, in 
+principle, unlimited.&lt;/p&gt;
+
+&lt;video controls=&quot;&quot; autoplay=&quot;&quot;&gt;&lt;source src=&quot;/assets/videos/GADGET.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;figcaption&gt;Time evolution of a galaxy merger over a period of 2 billion years. Only the gas distribution is shown, 
+where brightness increases with gas density while the color hue encodes the gas temperature, from blue/cold to 
+yellow/hot.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The GADGET code” has been published as 
+&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S1384107601000422?via%3Dihub&quot; target=&quot;_blank&quot;&gt;Springel et al. 2001&lt;/a&gt;. 
+For more information and relevant publications please visit
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/gadget/&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
+project description page or contact
+&lt;a href=&quot;https://www.mpa-garching.mpg.de/person/55019/2377&quot; target=&quot;_blank&quot;&gt;Volker Springel&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Apr 2001 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2001/04/19/GADGET/</link>
+        <guid isPermaLink="true">http://localhost:4000/2001/04/19/GADGET/</guid>
+        
+        <category>GADGET</category>
+        
+        <category>EAGLE</category>
+        
+        <category>Hydrangea</category>
+        
+        <category>BAHAMAS</category>
+        
+        <category>Apostle</category>
+        
+        <category>OWLS</category>
+        
+        <category>GIMIC</category>
+        
+        <category>Aquarius</category>
+        
+        <category>Millennium</category>
+        
+        
+        <category>Page_Codes</category>
+        
+      </item>
+    
+      <item>
+        <title>The Hubble Volume Project</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/Hubble.png&quot; alt=&quot;Supercluster complex and voids&quot; style=&quot;display: block; margin-left: auto;  margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;A 4 billion lightyears on a side slice through the full volume which shows a supercluster complex and 
+several large voids.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;The Hubble Volume Project is a joint effort of the Virgo Consortium and collaborators in U.S., Canada, U.K., and 
+Germany. To study the formation of clusters of galaxies, filaments and void-structures, a significant fraction of 
+the entire observable universe is modelled and simulated by employing one billion(=1000000000) mass particles. This 
+is the largest such computer simulation ever done. The 512-processor Garching T3E parallel computer was used for 
+this simulation, which produced almost a Terabyte of output data in some 70 hours.&lt;/p&gt;
+
+&lt;p&gt;An important aspect associated with the Hubble Volume Simulations is that data are output along a light-cone so the 
+clustering evolution is incorporated in output data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Hubble2.png&quot; alt=&quot;Deep wedge of LCDM&quot; style=&quot;float: left;width:100%;  height:100%;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Deep wedge of LCDM simulation.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The Hubble Volume Project” has been published as 
+&lt;a href=&quot;https://academic.oup.com/mnras/article/319/1/209/1076270&quot; target=&quot;_blank&quot;&gt;Colberg et al. 2000&lt;/a&gt;.
+For more information please visit 
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/galform/virgo/hubble/index.shtml&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
+project description page.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Nov 2000 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2000/11/21/Hubble/</link>
+        <guid isPermaLink="true">http://localhost:4000/2000/11/21/Hubble/</guid>
+        
+        <category>Hubble</category>
+        
+        <category>Hubble_Data</category>
+        
+        <category>Hydra</category>
+        
+        
+        <category>Page_Legacy</category>
+        
+      </item>
+    
+      <item>
+        <title>Hubble Volume Project — Data</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/Hubble_Data.png&quot; alt=&quot;Projected matter distribution&quot; style=&quot;display: block; margin-left:  auto; margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The projected matter distribution in a slab of 2000 × 2000 × 20 (Mpc/h)^3 taken from a snapshot of the LCDM 
+model.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Data&lt;/h1&gt;
+
+&lt;p&gt;Galaxy catalogues and dark halo catalogues for the LCDM model can be found 
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/galform/virgo/hubble/index.shtml#data&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.
+In addition, five separate light-cone ‘sky’ surveys are produced by each run (available for LCDM only) which can be 
+found
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/galform/virgo/hubble/catalog.shtml&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Nov 2000 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2000/11/21/Hubble_Data/</link>
+        <guid isPermaLink="true">http://localhost:4000/2000/11/21/Hubble_Data/</guid>
+        
+        <category>Hubble_Data</category>
+        
+        <category>Hubble</category>
+        
+        
+        <category>Page_Data</category>
+        
+      </item>
+    
+      <item>
+        <title>The GIF Project</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/GIF.png&quot; alt=&quot;Dark matter distribution of GIF&quot; style=&quot;display: block; margin-left: auto;  margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Dark matter distribution of GIF boxes of four different cosmologies (z=3, 2, 1, and 0).&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;The GIF (Germany and Israel Foundation) project was a joint effort of astrophysicists from Germany and Israel. 
+Scientists involved in the GIF 
+project combined the large high-resolution N-body simulations with semi-analytical models to study formation and 
+evolution of galaxies.&lt;/p&gt;
+
+&lt;p&gt;The simulations include detailed phenomenological modelling of gas cooling, of star formation, of stellar population
+evolution, of feedback from massive stars and supernovae, and of galaxy merging. In some cases, chemical evolution 
+of the interstellar medium of galaxies and of the hot intergalactic medium is also included.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/GIF2.png&quot; alt=&quot;A slice of GIF&quot; style=&quot;float: left;width:100%; height:100%;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;A slice of thickness 8 Mpc/h through the whole simulation box (which is 85 Mpc/h on a side). The colours
+now denote the B-V colours of the galaxies, ranging from red for ellipticals to blue for irregulars.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The GIF Project” has been published as 
+&lt;a href=&quot;https://academic.oup.com/mnras/article/303/1/188/1142139&quot; target=&quot;_blank&quot;&gt;Kauffmann et al. 1999&lt;/a&gt;. 
+For more information please visit 
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/galform/gif/index.shtml&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
+project description page or contact
+&lt;a href=&quot;https://www.mpa-garching.mpg.de/person/44092/2377&quot; target=&quot;_blank&quot;&gt;Guinevere Kauffmann&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Feb 1999 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/1999/02/11/GIF/</link>
+        <guid isPermaLink="true">http://localhost:4000/1999/02/11/GIF/</guid>
+        
+        <category>GIF</category>
+        
+        <category>GIF_Data</category>
+        
+        <category>Hydra</category>
+        
+        
+        <category>Page_Legacy</category>
+        
+      </item>
+    
+      <item>
+        <title>GIF Project — Data</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/GIF_Data.png&quot; alt=&quot;Projected matter distribution&quot; style=&quot;display: block; margin-left:  auto; margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;One of the clusters from the tauCDM simulation at z=0. The size of the region shown is 21 × 21 × 8 Mpc/h
+.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Data&lt;/h1&gt;
+
+&lt;p&gt;Galaxy catalogues and dark halo catalogues produced by the GIF project can be found 
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/galform/gif/index.shtml#data&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more information please contact
+&lt;a href=&quot;https://www.mpa-garching.mpg.de/person/44092/2377&quot; target=&quot;_blank&quot;&gt;Guinevere Kauffmann&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Feb 1999 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/1999/02/11/GIF_Data/</link>
+        <guid isPermaLink="true">http://localhost:4000/1999/02/11/GIF_Data/</guid>
+        
+        <category>GIF_Data</category>
+        
+        <category>GIF</category>
+        
+        
+        <category>Page_Data</category>
+        
+      </item>
+    
+      <item>
+        <title>The Hydra Code</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/Hydra.png&quot; alt=&quot;Hydra gas particles&quot; style=&quot;display: block; margin-left: auto;  margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;The formation of large-scale sturcture in the dark matter distribution.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;Hydra is an N-body hydrodynamics code which uses a combination of Adaptive PPPM for the gravity and Smoothed Particle 
+Hydrodynamics for the gas forces.&lt;/p&gt;
+
+&lt;p&gt;The code evolves a mixture of purely gravitational and gas particles. It begins with a box containing a 
+large number of uniformly distributed particles whose positions and velocities are perturbed in a physically 
+motivate manner and then the motion of every particle is followed through time.&lt;/p&gt;
+
+&lt;video controls=&quot;&quot; autoplay=&quot;&quot;&gt;&lt;source src=&quot;/assets/videos/Hydra.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+Your browser does not support the video tag.
+&lt;/video&gt;
+&lt;figcaption&gt;The animation shows the formation of large-scale sturcture in the dark matter distribution, from 
+redshift z=20 to the present time. The movie is centered on a forming rich cluster of galaxies.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The Hydra code” has been published as 
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/1995ApJ...452..797C/abstract&quot; target=&quot;_blank&quot;&gt;Couchman et al. 1995&lt;/a&gt;.
+For more information please contact
+&lt;a href=&quot;https://physics.mcmaster.ca/component/comprofiler/userprofile/couchman.html?Itemid=351&quot; target=&quot;_blank&quot;&gt;Hugh Couchman&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Oct 1995 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/1995/10/01/Hydra/</link>
+        <guid isPermaLink="true">http://localhost:4000/1995/10/01/Hydra/</guid>
+        
+        <category>Hydra</category>
+        
+        <category>Hubble</category>
+        
+        <category>GIF</category>
+        
+        
+        <category>Page_Codes</category>
+        
+      </item>
+    
+  </channel>
+</rss>
