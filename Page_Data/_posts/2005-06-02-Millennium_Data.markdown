@@ -28,7 +28,7 @@ requested by e-mail.
 
 For information on how to obtain these data please visit 
 [Durham's](http://galaxy-catalogue.dur.ac.uk:8080/Millennium/) 
-and 
+or 
 [MPA's](http://gavo.mpa-garching.mpg.de/Millennium/)
 database page or contact
 [Volker Springel](https://www.mpa-garching.mpg.de/person/55019/2377){:target="_blank"}.
