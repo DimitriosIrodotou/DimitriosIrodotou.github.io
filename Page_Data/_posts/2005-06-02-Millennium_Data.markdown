@@ -16,10 +16,8 @@ margin-left: auto; margin-right: auto; width: 75%"/>
 <h1 align="center">Data</h1>
 
 The halo and subhalo data from two Millennium Simulations together with all the galaxies that form within these 
-structures for two independent models of the galaxy formation physics have been made public through databases at 
-[Durham](http://galaxy-catalogue.dur.ac.uk:8080/Millennium/) 
-and 
-[MPA Garching](http://gavo.mpa-garching.mpg.de/Millennium/). 
+structures for two independent models of the galaxy formation physics have been made public through databases at Durham 
+and MPA Garching. 
 
 The databases have a Structured Query Language (SQL) query interface, and allow return of the data in a number of
 formats. This allows easy access to many properties of the galaxies and halos, as well as to the spatial and 
@@ -28,5 +26,9 @@ simulation ('milli-Millennium'), and one for the full simulation. The latter req
 needed for your project have been developed and tested using the milli-Millennium databases, this account can be 
 requested by e-mail.
 
-For more information please contact
+For information on how to obtain these data please visit 
+[Durham's](http://galaxy-catalogue.dur.ac.uk:8080/Millennium/) 
+and 
+[MPA's](http://gavo.mpa-garching.mpg.de/Millennium/)
+database page or contact
 [Volker Springel](https://www.mpa-garching.mpg.de/person/55019/2377){:target="_blank"}.

@@ -20,10 +20,9 @@ metallicities), merger histories and images for more than 1,000,000 simulated ga
 simulations of various box sizes, numerical resolutions and physical models. Additionally, it includes particle 
 data for each of these simulations.
 
-Information of how to obtain these data along with the initial conditions can be found
-[here](http://icc.dur.ac.uk/Eagle/database.php){:target="_blank"}
-and
-[here](http://eagle.strw.leidenuniv.nl/index.php/data-products/initial-conditions/){:target="_blank"}.
-
-For more information please contact
+For information on how to obtain these data along with the initial conditions please visit 
+[Durham's](http://icc.dur.ac.uk/Eagle/){:target="_blank"} 
+or 
+[Leiden's](http://eagle.strw.leidenuniv.nl){:target="_blank"}
+project data page or contact
 [Joop Schaye](https://www.universiteitleiden.nl/en/staffmembers/joop-schaye#tab-1){:target="_blank"}.

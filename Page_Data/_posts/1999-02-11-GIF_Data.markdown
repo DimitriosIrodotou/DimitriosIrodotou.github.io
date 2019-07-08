@@ -16,8 +16,7 @@ auto; margin-right: auto; width: 75%"/>
 
 <h1 align="center">Data</h1>
 
-Galaxy catalogues and dark halo catalogues produced by the GIF project can be found 
-[here](https://wwwmpa.mpa-garching.mpg.de/galform/gif/index.shtml#data){:target="_blank"}.
-
-For more information please contact
+For galaxy catalogues and dark halo catalogues produced by the GIF project please visit 
+[MPA's](https://wwwmpa.mpa-garching.mpg.de/galform/gif/index.shtml#data){:target="_blank"}
+project data page or contact
 [Guinevere Kauffmann](https://www.mpa-garching.mpg.de/person/44092/2377){:target="_blank"}.

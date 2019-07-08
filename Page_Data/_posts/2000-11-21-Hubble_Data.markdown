@@ -16,8 +16,6 @@ model.</figcaption>
 
 <h1 align="center">Data</h1>
 
-Galaxy catalogues and dark halo catalogues for the LCDM model can be found 
-[here](https://wwwmpa.mpa-garching.mpg.de/galform/virgo/hubble/index.shtml#data){:target="_blank"}.
-In addition, five separate light-cone 'sky' surveys are produced by each run (available for LCDM only) which can be 
-found
-[here](https://wwwmpa.mpa-garching.mpg.de/galform/virgo/hubble/catalog.shtml){:target="_blank"}.
+For galaxy catalogues, dark halo catalogues for the LCDM model or light-cone outputs please visit 
+[MPA's](https://wwwmpa.mpa-garching.mpg.de/galform/virgo/hubble/index.shtml#data){:target="_blank"}
+project data page.

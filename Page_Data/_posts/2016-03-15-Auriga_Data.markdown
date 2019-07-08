@@ -16,12 +16,8 @@ stellar catalogues as viewed from a solar-like position in Equatorial coordinate
 
 <h1 align="center">Data</h1>
 
-Information and documentation on how to use the catalogues, links to download the data, supplementary material and 
-example scripts that can be used to read and extract relevant data can be found
-[here](https://auriga.h-its.org/gaiamock.html).
-
-In addition, a table listing the properties of HI discs in the Auriga simulations can be found 
-[here](https://auriga.h-its.org/data.html).
-
-For more information please contact
+For information and documentation on how to use the catalogues, links to download the data, supplementary material and 
+example scripts please visit 
+[MPA's](https://wwwmpa.mpa-garching.mpg.de/auriga/gaiamock.html)
+project data page or contact
 [Robert Grand](https://www.mpa-garching.mpg.de/person/96670/2377){:target="_blank"}.
