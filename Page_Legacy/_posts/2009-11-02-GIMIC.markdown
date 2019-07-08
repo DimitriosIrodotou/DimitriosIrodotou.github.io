@@ -32,6 +32,6 @@ density of galaxies; at fixed mass, the properties of galaxies are similar acros
 The initial paper for "The GIMIC Project" has been published as 
 [Crain et al. 2009](https://academic.oup.com/mnras/article/399/4/1773/1032849){:target="_blank"}. 
 For more information and relevant publications please visit
-[Crain's](http://www.astro.ljmu.ac.uk/~astrcrai/?page_id=681){:target="_blank"}
+[Robert Crain's](http://www.astro.ljmu.ac.uk/~astrcrai/?page_id=681){:target="_blank"}
 project description page or contact
 [Robert Crain](https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/astrophysics-research-institute/robert-crain){:target="_blank"}.
