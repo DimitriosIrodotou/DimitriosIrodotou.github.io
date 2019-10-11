@@ -37,6 +37,6 @@ Your browser does not support the video tag.
 The initial paper for "The Millennium Project" has been published as 
 [Springel et al. 2005](https://www.nature.com/articles/nature03597){:target="_blank"}. 
 For more information and relevant publications please visit 
-[MPA's](https://wwwmpa.mpa-garching.mpg.de/millennium/){:target="_blank"}
+[MPA's](http://www.mpa-garching.mpg.de/millennium){:target="_blank"}
 project description page or contact
 [Volker Springel](https://www.mpa-garching.mpg.de/person/55019/2377){:target="_blank"}.

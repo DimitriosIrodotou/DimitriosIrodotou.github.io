@@ -1,0 +1,37 @@
+---
+layout: post
+title: "The VIRGO Project"
+date: 1998-05-20
+description: "An analysis of the clustering evolution of dark matter in four cold dark matter cosmologies." 
+image: /assets/images/VIRGO.png
+tags: []
+---
+
+<img src="/assets/images/VIRGO.png" alt="Dark matter distribution of GIF" style="display: block; margin-left: auto; 
+margin-right: auto; width: 75%"/>
+<figcaption>Dark matter distribution of GIF boxes of four different cosmologies (z=3, 2, 1, and 0).</figcaption>
+ 
+---
+
+<h1 align="center">About</h1>
+
+The VIRGO project consists of four different cosmological models which were simulated in large boxes. The
+simulations contain 17-million particles each and represent different cosmological models. The calculations were done by
+the parallel version of AP3M N-body code on two large Cray T3D parallel supercomputers at the Edinburgh Parallel
+Computing Center and at the Computing Centre of the Max Planck Society in Garching.
+
+<img src="/assets/images/VIRGO2.png" alt="Projected mass distributions" style="float: left;width:100%; height:100%;"/>
+<figcaption>Projected mass distributions in slices of 3 different redshifts for each model. Thus this
+picture shows the time evolution of structures along the horizontal sequence in each model as well as the model
+difference at the same epoch along the vertical sequence.</figcaption>
+ 
+---
+
+<h1 align="center">Reference</h1>
+
+The initial paper for "The VIRGO Project" has been published as 
+[Jenkins et al. 1998](https://iopscience.iop.org/article/10.1086/305615){:target="_blank"}. 
+For more information please visit 
+[MPA's](https://wwwmpa.mpa-garching.mpg.de/Virgo/virgoproject.html){:target="_blank"}
+project description page or contact
+[Adrian Jenkins](http://star-www.dur.ac.uk/~arj/){:target="_blank"}.

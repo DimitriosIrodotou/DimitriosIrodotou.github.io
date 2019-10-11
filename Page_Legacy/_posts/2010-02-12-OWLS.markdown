@@ -39,4 +39,4 @@ The colour coding shows the projected gas density.</figcaption>
 The initial paper for "The OWLS Project" has been published as 
 [Schaye et al. 2010](https://academic.oup.com/mnras/article/402/3/1536/988975){:target="_blank"}.
 For more information please contact
-[Joop Schaye](https://www.universiteitleiden.nl/en/staffmembers/joop-schaye#tab-1){:target="_blank"}.
+[Joop Schaye](https://home.strw.leidenuniv.nl/~schaye/){:target="_blank"}.
