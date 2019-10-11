@@ -16,6 +16,8 @@ auto; margin-right: auto; width: 75%"/>
 
 <h1 align="center">Data</h1>
 
+The initial data release for “The GIF Project” is documented in
+[Frenk et al. 2000](https://ui.adsabs.harvard.edu/abs/2000astro.ph..7362F/abstract){:target="_blank"}.
 For galaxy catalogues and dark halo catalogues produced by the GIF project please visit 
 [MPA's](https://wwwmpa.mpa-garching.mpg.de/galform/gif/index.shtml#data){:target="_blank"}
 project data page or contact

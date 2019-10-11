@@ -20,9 +20,13 @@ metallicities), merger histories and images for more than 1,000,000 simulated ga
 simulations of various box sizes, numerical resolutions and physical models. Additionally, it includes particle 
 data for each of these simulations.
 
+The initial galaxy data release for “The EAGLE Project” is documented in 
+[McAlpine et al. 2016](https://ui.adsabs.harvard.edu/abs/2016A%26C....15...72M/abstract){:target="_blank"}
+and the particle data release in 
+[The EAGLE team 2017](https://ui.adsabs.harvard.edu/abs/2017arXiv170609899T/abstract){:target="_blank"}.
 For information on how to obtain these data along with the initial conditions please visit 
 [Durham's](http://icc.dur.ac.uk/Eagle/){:target="_blank"} 
 or 
 [Leiden's](http://eagle.strw.leidenuniv.nl){:target="_blank"}
 project data page or contact
-[Joop Schaye](https://www.universiteitleiden.nl/en/staffmembers/joop-schaye#tab-1){:target="_blank"}.
+[Joop Schaye](https://home.strw.leidenuniv.nl/~schaye/){:target="_blank"}.
