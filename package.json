@@ -30,6 +30,7 @@
     "gulp-uglify": "^3.0.0",
     "gulp-zip": "^4.0.0",
     "s3-website": "^3.3.0",
+    "stylelint": "^11.1.1",
     "stylelint-config-standard": "^17.0.0",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
