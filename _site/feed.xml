@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Jun 2019 15:35:49 +0100</pubDate>
-    <lastBuildDate>Mon, 24 Jun 2019 15:35:49 +0100</lastBuildDate>
+    <pubDate>Fri, 11 Oct 2019 14:34:36 +0100</pubDate>
+    <lastBuildDate>Fri, 11 Oct 2019 14:34:36 +0100</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -173,14 +173,10 @@ stellar catalogues as viewed from a solar-like position in Equatorial coordinate
 
 &lt;h1 align=&quot;center&quot;&gt;Data&lt;/h1&gt;
 
-&lt;p&gt;Information and documentation on how to use the catalogues, links to download the data, supplementary material and 
-example scripts that can be used to read and extract relevant data can be found
-&lt;a href=&quot;https://auriga.h-its.org/gaiamock.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In addition, a table listing the properties of HI discs in the Auriga simulations can be found 
-&lt;a href=&quot;https://auriga.h-its.org/data.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For more information please contact
+&lt;p&gt;For information and documentation on how to use the catalogues, links to download the data, supplementary material and 
+example scripts please visit 
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/auriga/gaiamock.html&quot;&gt;MPA’s&lt;/a&gt;
+project data page or contact
 &lt;a href=&quot;https://www.mpa-garching.mpg.de/person/96670/2377&quot; target=&quot;_blank&quot;&gt;Robert Grand&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
@@ -254,34 +250,32 @@ red with increasing temperature.&lt;/figcaption&gt;
 
 &lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
 
-&lt;p&gt;EAGLE (Evolution and Assembly of GaLaxies and their Environments) is a simulation aimed at understanding how galaxies
-form and evolve. This computer calculation models the formation of structures in a cosmological volume, 100 
-Megaparsecs on a side (over 300 million light-years). This is large enough to contain 10,000 galaxies of the size of
-the Milky Way or bigger, enabling a comparison with the whole zoo of galaxies visible in the Hubble Deep field for 
-example.&lt;/p&gt;
-
-&lt;p&gt;In EAGLE supermassive black holes can grow in mass by accreting gas, and by merging with other black holes. When 
-they accrete gas they can occasionally become active and become a quasar. Such violent outburst from the 
-supermassive black hole limit star formation in massive galaxies by expelling gas (the raw fuel for star formation) 
-from the galaxy. This makes them a crucial ingredient of the simulation.&lt;/p&gt;
+&lt;p&gt;EAGLE (Evolution and Assembly of GaLaxies and their Environments) is a suite of cosmological, hydrodynamical
+simulations aimed at understanding how galaxies form and evolve. The largest simulation models the formation of
+structures in a volume of 100 Megaparsecs on a side (over 300 million light-years). This is large enough to contain
+10,000 galaxies of the size of the Milky Way or larger. Smaller volumes have been modeled with different subgrid
+models for unresolved physical processes and/or higher resolution.&lt;/p&gt;
 
 &lt;video controls=&quot;&quot; autoplay=&quot;&quot;&gt;&lt;source src=&quot;/assets/videos/EAGLE.mp4&quot; type=&quot;video/mp4&quot; /&gt;
 Your browser does not support the video tag.
 &lt;/video&gt;
-&lt;figcaption&gt;AGN feedback from supermassive black holes in the centre of simulated galaxies.&lt;/figcaption&gt;
+&lt;figcaption&gt;The evolution of structure in a 25 Mpc version of the EAGLE simulation. Color indicates temperature and
+intensity indicates gas density.&lt;/figcaption&gt;
 
 &lt;hr /&gt;
 
 &lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
 
-&lt;p&gt;The initial paper for “The EAGLE Project” has been published as
-&lt;a href=&quot;https://academic.oup.com/mnras/article/446/1/521/1316115&quot; target=&quot;_blank&quot;&gt;Schaye et al. 2014&lt;/a&gt;.
+&lt;p&gt;The initial papers for “The EAGLE Project” has been published as
+&lt;a href=&quot;https://academic.oup.com/mnras/article/446/1/521/1316115&quot; target=&quot;_blank&quot;&gt;Schaye et al. 2015&lt;/a&gt;
+and
+&lt;a href=&quot;https://academic.oup.com/mnras/article/450/2/1937/984366&quot; target=&quot;_blank&quot;&gt;Crain et al. 2015&lt;/a&gt;.
 For more information and relevant publications please visit 
 &lt;a href=&quot;http://icc.dur.ac.uk/Eagle/&quot; target=&quot;_blank&quot;&gt;Durham’s&lt;/a&gt; 
 or 
 &lt;a href=&quot;http://eagle.strw.leidenuniv.nl&quot; target=&quot;_blank&quot;&gt;Leiden’s&lt;/a&gt;
 project description page or contact
-&lt;a href=&quot;https://www.universiteitleiden.nl/en/staffmembers/joop-schaye#tab-1&quot; target=&quot;_blank&quot;&gt;Joop Schaye&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;https://home.strw.leidenuniv.nl/~schaye/&quot; target=&quot;_blank&quot;&gt;Joop Schaye&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 11 Nov 2014 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2014/11/11/EAGLE/</link>
@@ -316,13 +310,16 @@ metallicities), merger histories and images for more than 1,000,000 simulated ga
 simulations of various box sizes, numerical resolutions and physical models. Additionally, it includes particle 
 data for each of these simulations.&lt;/p&gt;
 
-&lt;p&gt;Information of how to obtain these data along with the initial conditions can be found
-&lt;a href=&quot;http://icc.dur.ac.uk/Eagle/database.php&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;
-and
-&lt;a href=&quot;http://eagle.strw.leidenuniv.nl/index.php/data-products/initial-conditions/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For more information please contact
-&lt;a href=&quot;https://www.universiteitleiden.nl/en/staffmembers/joop-schaye#tab-1&quot; target=&quot;_blank&quot;&gt;Joop Schaye&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The initial galaxy data release for “The EAGLE Project” is documented in 
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2016A%26C....15...72M/abstract&quot; target=&quot;_blank&quot;&gt;McAlpine et al. 2016&lt;/a&gt;
+and the particle data release in 
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2017arXiv170609899T/abstract&quot; target=&quot;_blank&quot;&gt;The EAGLE team 2017&lt;/a&gt;.
+For information on how to obtain these data along with the initial conditions please visit 
+&lt;a href=&quot;http://icc.dur.ac.uk/Eagle/&quot; target=&quot;_blank&quot;&gt;Durham’s&lt;/a&gt; 
+or 
+&lt;a href=&quot;http://eagle.strw.leidenuniv.nl&quot; target=&quot;_blank&quot;&gt;Leiden’s&lt;/a&gt;
+project data page or contact
+&lt;a href=&quot;https://home.strw.leidenuniv.nl/~schaye/&quot; target=&quot;_blank&quot;&gt;Joop Schaye&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 11 Nov 2014 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2014/11/11/EAGLE_Data/</link>
@@ -382,6 +379,47 @@ project description page or contact
       </item>
     
       <item>
+        <title>The Aquila Project</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/Aquila.png&quot; alt=&quot;Maps of the dark matter distribution.&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Maps of the dark matter distribution in the region surrounding the Aquila halo at z = 0. The dark matter
+is projected in cubic volumes of side length as indicated in each panel. Pixel brightness corresponds to the dark
+matter density using a logarithmic scale.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;The Aquila Project compares the results of cosmological gas-dynamical simulations of galaxy formation within
+a Milky Way-sized 􏰀CDM halo. The various runs differ in their numerical hydrodynamical treatment but share the same
+initial conditions&lt;/p&gt;
+
+&lt;p&gt;The Aquila Project consists of 13 different gas-dynamical simulations of the formation of a galaxy in a ΛCDM halo of
+similar mass to that of the Milky Way. Nine different codes were used for the project (two codes were run three
+times each with different sub-grid physics modules). The various codes differ in their hydrodynamical technique (SPH
+, AMR, moving-mesh): seven codes use the SPH technique, six of which are based on gadget and one on gasoline.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Aquila2.png&quot; alt=&quot;Face-on and edge-on maps of projected stellar mass density.&quot; style=&quot;float: left;width:100%;  height:100%;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Face-on and edge-on maps of projected stellar mass density..&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The Aquila Project” has been published as 
+&lt;a href=&quot;https://academic.oup.com/mnras/article/423/2/1726/969849&quot; target=&quot;_blank&quot;&gt;Scannapieco et al. 2012&lt;/a&gt;.
+For more information please contact
+&lt;a href=&quot;https://www.aip.de/Members/cscannapieco&quot; target=&quot;_blank&quot;&gt;Cecilia Scannapieco&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Jun 2012 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2012/06/08/Aquila/</link>
+        <guid isPermaLink="true">http://localhost:4000/2012/06/08/Aquila/</guid>
+        
+        
+        <category>Page_Legacy</category>
+        
+      </item>
+    
+      <item>
         <title>The OWLS Project</title>
         <description>&lt;p&gt;&lt;img src=&quot;/assets/images/OWLS.jpeg&quot; alt=&quot;Zoom into a halo&quot; style=&quot;display: block; margin-left: auto; margin-right:  auto; width: 75%&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Zoom into a halo, from left to right, the images are 10, 1 and 0.1 Mpc/h on a side. The colour coding 
@@ -412,7 +450,7 @@ The colour coding shows the projected gas density.&lt;/figcaption&gt;
 &lt;p&gt;The initial paper for “The OWLS Project” has been published as 
 &lt;a href=&quot;https://academic.oup.com/mnras/article/402/3/1536/988975&quot; target=&quot;_blank&quot;&gt;Schaye et al. 2010&lt;/a&gt;.
 For more information please contact
-&lt;a href=&quot;https://www.universiteitleiden.nl/en/staffmembers/joop-schaye#tab-1&quot; target=&quot;_blank&quot;&gt;Joop Schaye&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;https://home.strw.leidenuniv.nl/~schaye/&quot; target=&quot;_blank&quot;&gt;Joop Schaye&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 12 Feb 2010 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2010/02/12/OWLS/</link>
@@ -502,7 +540,7 @@ density of galaxies; at fixed mass, the properties of galaxies are similar acros
 &lt;p&gt;The initial paper for “The GIMIC Project” has been published as 
 &lt;a href=&quot;https://academic.oup.com/mnras/article/399/4/1773/1032849&quot; target=&quot;_blank&quot;&gt;Crain et al. 2009&lt;/a&gt;. 
 For more information and relevant publications please visit
-&lt;a href=&quot;http://www.astro.ljmu.ac.uk/~astrcrai/?page_id=681&quot; target=&quot;_blank&quot;&gt;Crain’s&lt;/a&gt;
+&lt;a href=&quot;http://www.astro.ljmu.ac.uk/~astrcrai/?page_id=681&quot; target=&quot;_blank&quot;&gt;Robert Crain’s&lt;/a&gt;
 project description page or contact
 &lt;a href=&quot;https://www.ljmu.ac.uk/about-us/staff-profiles/faculty-of-engineering-and-technology/astrophysics-research-institute/robert-crain&quot; target=&quot;_blank&quot;&gt;Robert Crain&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -601,7 +639,7 @@ Your browser does not support the video tag.
 &lt;p&gt;The initial paper for “The Millennium Project” has been published as 
 &lt;a href=&quot;https://www.nature.com/articles/nature03597&quot; target=&quot;_blank&quot;&gt;Springel et al. 2005&lt;/a&gt;. 
 For more information and relevant publications please visit 
-&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/millennium/&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
+&lt;a href=&quot;http://www.mpa-garching.mpg.de/millennium&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
 project description page or contact
 &lt;a href=&quot;https://www.mpa-garching.mpg.de/person/55019/2377&quot; target=&quot;_blank&quot;&gt;Volker Springel&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -630,10 +668,8 @@ project description page or contact
 &lt;h1 align=&quot;center&quot;&gt;Data&lt;/h1&gt;
 
 &lt;p&gt;The halo and subhalo data from two Millennium Simulations together with all the galaxies that form within these 
-structures for two independent models of the galaxy formation physics have been made public through databases at 
-&lt;a href=&quot;http://galaxy-catalogue.dur.ac.uk:8080/Millennium/&quot;&gt;Durham&lt;/a&gt; 
-and 
-&lt;a href=&quot;http://gavo.mpa-garching.mpg.de/Millennium/&quot;&gt;MPA Garching&lt;/a&gt;.&lt;/p&gt;
+structures for several generations of galaxy formation models from both MPA and ICC have been made public through
+databases at Durham and MPA Garching.&lt;/p&gt;
 
 &lt;p&gt;The databases have a Structured Query Language (SQL) query interface, and allow return of the data in a number of
 formats. This allows easy access to many properties of the galaxies and halos, as well as to the spatial and 
@@ -642,7 +678,13 @@ simulation (‘milli-Millennium’), and one for the full simulation. The latter
 needed for your project have been developed and tested using the milli-Millennium databases, this account can be 
 requested by e-mail.&lt;/p&gt;
 
-&lt;p&gt;For more information please contact
+&lt;p&gt;The initial data release for “The Millennium Project” is documented in
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2006astro.ph..8019L/abstract&quot; target=&quot;_blank&quot;&gt;Lemson et al. 2006&lt;/a&gt;.
+For information on how to obtain these data please visit 
+&lt;a href=&quot;http://galaxy-catalogue.dur.ac.uk:8080/Millennium/&quot;&gt;Durham’s&lt;/a&gt; 
+or 
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/millennium/#DATABASE_ACCESS&quot;&gt;MPA’s&lt;/a&gt;
+database page or contact
 &lt;a href=&quot;https://www.mpa-garching.mpg.de/person/55019/2377&quot; target=&quot;_blank&quot;&gt;Volker Springel&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Jun 2005 00:00:00 +0100</pubDate>
@@ -780,11 +822,9 @@ model.&lt;/figcaption&gt;
 
 &lt;h1 align=&quot;center&quot;&gt;Data&lt;/h1&gt;
 
-&lt;p&gt;Galaxy catalogues and dark halo catalogues for the LCDM model can be found 
-&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/galform/virgo/hubble/index.shtml#data&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.
-In addition, five separate light-cone ‘sky’ surveys are produced by each run (available for LCDM only) which can be 
-found
-&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/galform/virgo/hubble/catalog.shtml&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For galaxy catalogues, dark halo catalogues for the LCDM model or light-cone outputs please visit 
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/galform/virgo/hubble/index.shtml#data&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
+project data page.&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Nov 2000 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2000/11/21/Hubble_Data/</link>
@@ -857,10 +897,11 @@ project description page or contact
 
 &lt;h1 align=&quot;center&quot;&gt;Data&lt;/h1&gt;
 
-&lt;p&gt;Galaxy catalogues and dark halo catalogues produced by the GIF project can be found 
-&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/galform/gif/index.shtml#data&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For more information please contact
+&lt;p&gt;The initial data release for “The GIF Project” is documented in
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2000astro.ph..7362F/abstract&quot; target=&quot;_blank&quot;&gt;Frenk et al. 2000&lt;/a&gt;.
+For galaxy catalogues and dark halo catalogues produced by the GIF project please visit 
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/galform/gif/index.shtml#data&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
+project data page or contact
 &lt;a href=&quot;https://www.mpa-garching.mpg.de/person/44092/2377&quot; target=&quot;_blank&quot;&gt;Guinevere Kauffmann&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Feb 1999 00:00:00 +0000</pubDate>
@@ -870,6 +911,70 @@ project description page or contact
         <category>GIF_Data</category>
         
         <category>GIF</category>
+        
+        
+        <category>Page_Data</category>
+        
+      </item>
+    
+      <item>
+        <title>The VIRGO Project</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/VIRGO.png&quot; alt=&quot;Dark matter distribution of GIF&quot; style=&quot;display: block; margin-left: auto;  margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Dark matter distribution of GIF boxes of four different cosmologies (z=3, 2, 1, and 0).&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;The VIRGO project consists of four different cosmological models which were simulated in large boxes. The
+simulations contain 17-million particles each and represent different cosmological models. The calculations were done by
+the parallel version of AP3M N-body code on two large Cray T3D parallel supercomputers at the Edinburgh Parallel
+Computing Center and at the Computing Centre of the Max Planck Society in Garching.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/VIRGO2.png&quot; alt=&quot;Projected mass distributions&quot; style=&quot;float: left;width:100%; height:100%;&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Projected mass distributions in slices of 3 different redshifts for each model. Thus this
+picture shows the time evolution of structures along the horizontal sequence in each model as well as the model
+difference at the same epoch along the vertical sequence.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
+
+&lt;p&gt;The initial paper for “The VIRGO Project” has been published as 
+&lt;a href=&quot;https://iopscience.iop.org/article/10.1086/305615&quot; target=&quot;_blank&quot;&gt;Jenkins et al. 1998&lt;/a&gt;. 
+For more information please visit 
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/Virgo/virgoproject.html&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
+project description page or contact
+&lt;a href=&quot;http://star-www.dur.ac.uk/~arj/&quot; target=&quot;_blank&quot;&gt;Adrian Jenkins&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 May 1998 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/1998/05/20/VIRGO/</link>
+        <guid isPermaLink="true">http://localhost:4000/1998/05/20/VIRGO/</guid>
+        
+        
+        <category>Page_Legacy</category>
+        
+      </item>
+    
+      <item>
+        <title>VIRGO Project — Data</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/VIRGO_Data.jpeg&quot; alt=&quot;Isodensity contour&quot; style=&quot;display: block; margin-left:  auto; margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
+&lt;figcaption&gt;An isodensity contour of the complete tCDM box at an overdensity of 2.&lt;/figcaption&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 align=&quot;center&quot;&gt;Data&lt;/h1&gt;
+
+&lt;p&gt;The initial data release for “The VIRGO Project” is documented in
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2000astro.ph..7362F/abstract&quot; target=&quot;_blank&quot;&gt;Frenk et al. 2000&lt;/a&gt;.
+For snapshot outputs at 10 different redshifts for all the 4 models produced by the VIRGO project please visit 
+&lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/Virgo/data_download.html#VIRGO&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
+project data page or contact
+&lt;a href=&quot;http://star-www.dur.ac.uk/~arj/&quot; target=&quot;_blank&quot;&gt;Adrian Jenkins&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 May 1998 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/1998/05/20/VIRGO_Data/</link>
+        <guid isPermaLink="true">http://localhost:4000/1998/05/20/VIRGO_Data/</guid>
         
         
         <category>Page_Data</category>
