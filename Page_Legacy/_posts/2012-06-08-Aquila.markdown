@@ -28,7 +28,7 @@ times each with different sub-grid physics modules). The various codes differ in
 
 <img src="/assets/images/Aquila2.png" alt="Face-on and edge-on maps of projected stellar mass density." style="float: left;width:100%; 
 height:100%;"/>
-<figcaption>Face-on and edge-on maps of projected stellar mass density..</figcaption>
+<figcaption>Face-on and edge-on maps of projected stellar mass density.</figcaption>
  
 ---
 
