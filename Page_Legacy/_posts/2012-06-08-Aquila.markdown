@@ -5,7 +5,7 @@ date: 2012-06-08
 description: "Comparing the predictions of different codes using common initial conditions and a homogeneous set of
  analysis tools." 
 image: /assets/images/Aquila.png
-tags: []
+tags: [Aquila]
 ---
 
 <img src="/assets/images/Aquila.png" alt="Maps of the dark matter distribution."/>
