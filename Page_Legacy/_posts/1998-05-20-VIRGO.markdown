@@ -4,7 +4,7 @@ title: "The VIRGO Project"
 date: 1998-05-20
 description: "An analysis of the clustering evolution of dark matter in four cold dark matter cosmologies." 
 image: /assets/images/VIRGO.png
-tags: []
+tags: [Virgo]
 ---
 
 <img src="/assets/images/VIRGO.png" alt="Dark matter distribution of GIF" style="display: block; margin-left: auto; 

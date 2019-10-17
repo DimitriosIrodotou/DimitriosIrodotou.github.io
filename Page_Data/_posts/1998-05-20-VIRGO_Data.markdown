@@ -4,7 +4,7 @@ title: "VIRGO Project — Data"
 date: 1998-05-20
 description: 
 image: /assets/images/VIRGO_Data.jpeg
-tags: []
+tags: [Virgo]
 ---
 
 <img src="/assets/images/VIRGO_Data.jpeg" alt="Isodensity contour" style="display: block; margin-left: 
