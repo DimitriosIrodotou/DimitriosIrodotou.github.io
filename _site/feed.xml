@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Oct 2019 14:34:36 +0100</pubDate>
-    <lastBuildDate>Fri, 11 Oct 2019 14:34:36 +0100</lastBuildDate>
+    <pubDate>Thu, 17 Oct 2019 09:40:37 +0100</pubDate>
+    <lastBuildDate>Thu, 17 Oct 2019 09:40:37 +0100</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -399,7 +399,7 @@ times each with different sub-grid physics modules). The various codes differ in
 , AMR, moving-mesh): seven codes use the SPH technique, six of which are based on gadget and one on gasoline.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/Aquila2.png&quot; alt=&quot;Face-on and edge-on maps of projected stellar mass density.&quot; style=&quot;float: left;width:100%;  height:100%;&quot; /&gt;&lt;/p&gt;
-&lt;figcaption&gt;Face-on and edge-on maps of projected stellar mass density..&lt;/figcaption&gt;
+&lt;figcaption&gt;Face-on and edge-on maps of projected stellar mass density.&lt;/figcaption&gt;
 
 &lt;hr /&gt;
 
