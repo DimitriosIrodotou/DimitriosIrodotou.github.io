@@ -35,7 +35,7 @@ height:100%;"/>
 <h1 align="center">Reference</h1>
 
 The initial paper for "The Hubble Volume Project" has been published as 
-[Colberg et al. 2000](https://academic.oup.com/mnras/article/319/1/209/1076270){:target="_blank"}.
+[Colberg et al. 2000](https://ui.adsabs.harvard.edu/abs/2000MNRAS.319..209C/abstract){:target="_blank"}.
 For more information please visit 
 [MPA's](https://wwwmpa.mpa-garching.mpg.de/galform/virgo/hubble/index.shtml){:target="_blank"}
 project description page.

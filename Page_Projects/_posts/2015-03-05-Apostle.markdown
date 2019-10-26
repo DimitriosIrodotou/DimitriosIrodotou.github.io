@@ -35,7 +35,7 @@ distribution (right) in a 2 Mpc cube.</figcaption>
 <h1 align="center">References</h1>
 
 The initial paper for "The APOSTLE Project" has been published as 
-[Sawala et al. 2015](https://academic.oup.com/mnras/article/448/3/2941/1084323){:target="_blank"}.
+[Sawala et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.448.2941S/abstract){:target="_blank"}.
 For more information and relevant publications please visit
 [Sawala's](https://blogs.helsinki.fi/sawala/the-apostle-collaboration/){:target="_blank"}
 project description page or contact

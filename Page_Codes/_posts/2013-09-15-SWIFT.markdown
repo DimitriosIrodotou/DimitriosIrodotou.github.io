@@ -35,6 +35,6 @@ do this to test theories about what the universe is made of and how it evolved f
 The initial paper for "The SWIFT code" has been released by 
 [Gonnet et al. 2013](https://ui.adsabs.harvard.edu/abs/2013arXiv1309.3783G/abstract){:target="_blank"}. 
 For more information and relevant publications please visit
-[Durham's](http://swift.dur.ac.uk){:target="_blank"}
+[Durham's](http://icc.dur.ac.uk/swift/){:target="_blank"}
 project description page or contact
 [Matthieu Schaller](https://www.mpa-garching.mpg.de/person/55019/2377){:target="_blank"}.

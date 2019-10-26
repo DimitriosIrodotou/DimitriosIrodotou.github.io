@@ -4,7 +4,7 @@ title: "The AREPO Code"
 date: 2010-01-05
 description: "A cosmological hydrodynamical simulation code on a fully dynamic unstructured mesh." 
 image: /assets/images/AREPO.png
-tags: [AREPO, Auriga]
+tags: [AREPO, Auriga, Aquila]
 ---
 
 <img src="/assets/images/AREPO.png" alt="Kelvin Helmholtz instability" style="display: block; margin-left: auto; 

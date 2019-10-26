@@ -34,7 +34,7 @@ now denote the B-V colours of the galaxies, ranging from red for ellipticals to 
 <h1 align="center">Reference</h1>
 
 The initial paper for "The GIF Project" has been published as 
-[Kauffmann et al. 1999](https://academic.oup.com/mnras/article/303/1/188/1142139){:target="_blank"}. 
+[Kauffmann et al. 1999](https://ui.adsabs.harvard.edu/abs/1999MNRAS.303..188K/abstract){:target="_blank"}. 
 For more information please visit 
 [MPA's](https://wwwmpa.mpa-garching.mpg.de/galform/gif/index.shtml){:target="_blank"}
 project description page or contact

@@ -129,6 +129,9 @@
 <loc>http://localhost:4000/tag/gif/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/tag/virgo/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tag/gif_data/</loc>
 </url>
 <url>
@@ -160,6 +163,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/millennium/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/aquila/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/millennium_data/</loc>

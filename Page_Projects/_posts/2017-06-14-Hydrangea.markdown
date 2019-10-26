@@ -18,16 +18,11 @@ white: hot).</figcaption>
 <h1 align="center">About</h1>
 
 The Hydrangea Project, led by Yannick Bahé and involving researchers in Germany, the 
-UK, the Netherlands, and Spain, is a large suite of 24 simulations of massive galaxy clusters. These simulations 
-employ the so-called “zoom-in” technique, which focuses computing power on a relatively small region (with a 
-diameter approximately 100 million light years). This core region was carefully selected to contain a massive 
-galaxy cluster, within a total volume that is many thousand times larger.
-
-In total, the Hydrangea simulations contain more than 20,000 galaxies. The full analysis of the simulations is an 
-ongoing effort that will take several years to complete. This effort will allow astrophysicists to gain 
-ground-breaking new insight into how galaxies interact with their cluster environment. This will significantly 
-improve our understanding of how the structures we see in the Universe formed and evolved over the last 13.7 billion
-years.
+UK, the Netherlands, and Spain, is a large suite of 24 simulations of massive galaxy clusters run with 
+the same code as used for the EAGLE project. These simulations employ the so-called “zoom-in” technique, which
+focuses computing power on a relatively small region (with a diameter approximately 100 million light years). This
+core region was carefully selected to contain a massive galaxy cluster, within a total volume that is many thousand
+times larger.
 
 <img src="/assets/images/Hydrangea2.jpg" alt="Projected gas density" 
 style="float: left; width:100%; height:100%;"/>
@@ -39,7 +34,7 @@ coldest).</figcaption>
 <h1 align="center">References</h1>
 
 The initial paper for "The Hydrangea Project" has been published as 
-[Bahé et al. 2017](https://academic.oup.com/mnras/article/470/4/4186/3868206){:target="_blank"}.
+[Bahé et al. 2017](https://ui.adsabs.harvard.edu/abs/2017MNRAS.470.4186B/abstract){:target="_blank"}.
 For more information please visit
 [MPA's](https://www.mpa-garching.mpg.de/399296/hl201701){:target="_blank"}
 monthly highlight article or

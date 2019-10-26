@@ -33,9 +33,9 @@ intensity indicates gas density.</figcaption>
 <h1 align="center">References</h1>
 
 The initial papers for "The EAGLE Project" has been published as
-[Schaye et al. 2015](https://academic.oup.com/mnras/article/446/1/521/1316115){:target="_blank"}
+[Schaye et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.446..521S/abstract){:target="_blank"}
 and
-[Crain et al. 2015](https://academic.oup.com/mnras/article/450/2/1937/984366){:target="_blank"}.
+[Crain et al. 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1937C/abstract){:target="_blank"}.
 For more information and relevant publications please visit 
 [Durham's](http://icc.dur.ac.uk/Eagle/){:target="_blank"} 
 or 

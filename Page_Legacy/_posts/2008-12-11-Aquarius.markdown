@@ -38,7 +38,7 @@ to z=0.</figcaption>
 <h1 align="center">Reference</h1>
 
 The initial paper for "The Aquarius Project" has been published as 
-[Springel et al. 2008](https://academic.oup.com/mnras/article/391/4/1685/1747035){:target="_blank"}. 
+[Springel et al. 2008](https://ui.adsabs.harvard.edu/abs/2008MNRAS.391.1685S/abstract){:target="_blank"}. 
 For more information and relevant publications please visit 
 [MPA's](https://wwwmpa.mpa-garching.mpg.de/aquarius/){:target="_blank"}
 project description page or contact

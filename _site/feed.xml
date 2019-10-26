@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Oct 2019 09:40:37 +0100</pubDate>
-    <lastBuildDate>Thu, 17 Oct 2019 09:40:37 +0100</lastBuildDate>
+    <pubDate>Sat, 26 Oct 2019 18:18:42 +0100</pubDate>
+    <lastBuildDate>Sat, 26 Oct 2019 18:18:42 +0100</lastBuildDate>
     <generator>Jekyll v3.6.3</generator>
     
       <item>
@@ -21,16 +21,11 @@ white: hot).&lt;/figcaption&gt;
 &lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
 
 &lt;p&gt;The Hydrangea Project, led by Yannick Bahé and involving researchers in Germany, the 
-UK, the Netherlands, and Spain, is a large suite of 24 simulations of massive galaxy clusters. These simulations 
-employ the so-called “zoom-in” technique, which focuses computing power on a relatively small region (with a 
-diameter approximately 100 million light years). This core region was carefully selected to contain a massive 
-galaxy cluster, within a total volume that is many thousand times larger.&lt;/p&gt;
-
-&lt;p&gt;In total, the Hydrangea simulations contain more than 20,000 galaxies. The full analysis of the simulations is an 
-ongoing effort that will take several years to complete. This effort will allow astrophysicists to gain 
-ground-breaking new insight into how galaxies interact with their cluster environment. This will significantly 
-improve our understanding of how the structures we see in the Universe formed and evolved over the last 13.7 billion
-years.&lt;/p&gt;
+UK, the Netherlands, and Spain, is a large suite of 24 simulations of massive galaxy clusters run with 
+the same code as used for the EAGLE project. These simulations employ the so-called “zoom-in” technique, which
+focuses computing power on a relatively small region (with a diameter approximately 100 million light years). This
+core region was carefully selected to contain a massive galaxy cluster, within a total volume that is many thousand
+times larger.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/Hydrangea2.jpg&quot; alt=&quot;Projected gas density&quot; style=&quot;float: left; width:100%; height:100%;&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Projected gas density is shown on the left, gas temperature on the right (white is hottest, black 
@@ -41,7 +36,7 @@ coldest).&lt;/figcaption&gt;
 &lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
 
 &lt;p&gt;The initial paper for “The Hydrangea Project” has been published as 
-&lt;a href=&quot;https://academic.oup.com/mnras/article/470/4/4186/3868206&quot; target=&quot;_blank&quot;&gt;Bahé et al. 2017&lt;/a&gt;.
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2017MNRAS.470.4186B/abstract&quot; target=&quot;_blank&quot;&gt;Bahé et al. 2017&lt;/a&gt;.
 For more information please visit
 &lt;a href=&quot;https://www.mpa-garching.mpg.de/399296/hl201701&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
 monthly highlight article or
@@ -73,7 +68,7 @@ time-variable dark energy models and modified gravity models.&lt;/figcaption&gt;
 &lt;h1 align=&quot;center&quot;&gt;About&lt;/h1&gt;
 
 &lt;p&gt;The BAHAMAS (BAryons and HAloes of MAssive Systems) project is a large-volume, cosmological simulations 
-which was developed as part of the OWLS project. It is a first attempt to calibrate the feedback on the total baryon 
+which grew out of the (Cosmo-)OWLS project. It is a first attempt to calibrate the feedback on the total baryon 
 content of haloes and is the first study to explicitly calibrate the feedback on the observed properties of massive 
 haloes.&lt;/p&gt;
 
@@ -91,7 +86,7 @@ show the tSZ signal, the X-ray flux and the lensing convergence, centred on the 
 &lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
 
 &lt;p&gt;The initial paper for “The BAHAMAS Project” has been published as 
-&lt;a href=&quot;https://academic.oup.com/mnras/article/465/3/2936/2417021&quot; target=&quot;_blank&quot;&gt;McCarthy et al. 2016&lt;/a&gt;.
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2017MNRAS.465.2936M/abstract&quot; target=&quot;_blank&quot;&gt;McCarthy et al. 2017&lt;/a&gt;.
 For more information and relevant publications please visit
 &lt;a href=&quot;http://www.astro.ljmu.ac.uk/~igm/BAHAMAS/index.html&quot; target=&quot;_blank&quot;&gt;LJMU’s&lt;/a&gt;
 project description page or contact
@@ -142,7 +137,7 @@ these, field lines indicate the directions of the magnetic field.&lt;/figcaption
 &lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
 
 &lt;p&gt;The initial paper for “The Auriga Project” has been published as
-&lt;a href=&quot;https://academic.oup.com/mnras/article/459/1/199/2608880&quot; target=&quot;_blank&quot;&gt;Grand et al. 2016&lt;/a&gt;.
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2016MNRAS.459..199G/abstract&quot; target=&quot;_blank&quot;&gt;Grand et al. 2016&lt;/a&gt;.
 For more information and relevant publications please visit
 &lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/auriga/index.html&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
 project description page or contact
@@ -219,7 +214,7 @@ distribution (right) in a 2 Mpc cube.&lt;/figcaption&gt;
 &lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
 
 &lt;p&gt;The initial paper for “The APOSTLE Project” has been published as 
-&lt;a href=&quot;https://academic.oup.com/mnras/article/448/3/2941/1084323&quot; target=&quot;_blank&quot;&gt;Sawala et al. 2015&lt;/a&gt;.
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2015MNRAS.448.2941S/abstract&quot; target=&quot;_blank&quot;&gt;Sawala et al. 2015&lt;/a&gt;.
 For more information and relevant publications please visit
 &lt;a href=&quot;https://blogs.helsinki.fi/sawala/the-apostle-collaboration/&quot; target=&quot;_blank&quot;&gt;Sawala’s&lt;/a&gt;
 project description page or contact
@@ -267,9 +262,9 @@ intensity indicates gas density.&lt;/figcaption&gt;
 &lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
 
 &lt;p&gt;The initial papers for “The EAGLE Project” has been published as
-&lt;a href=&quot;https://academic.oup.com/mnras/article/446/1/521/1316115&quot; target=&quot;_blank&quot;&gt;Schaye et al. 2015&lt;/a&gt;
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2015MNRAS.446..521S/abstract&quot; target=&quot;_blank&quot;&gt;Schaye et al. 2015&lt;/a&gt;
 and
-&lt;a href=&quot;https://academic.oup.com/mnras/article/450/2/1937/984366&quot; target=&quot;_blank&quot;&gt;Crain et al. 2015&lt;/a&gt;.
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2015MNRAS.450.1937C/abstract&quot; target=&quot;_blank&quot;&gt;Crain et al. 2015&lt;/a&gt;.
 For more information and relevant publications please visit 
 &lt;a href=&quot;http://icc.dur.ac.uk/Eagle/&quot; target=&quot;_blank&quot;&gt;Durham’s&lt;/a&gt; 
 or 
@@ -363,7 +358,7 @@ do this to test theories about what the universe is made of and how it evolved f
 &lt;p&gt;The initial paper for “The SWIFT code” has been released by 
 &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2013arXiv1309.3783G/abstract&quot; target=&quot;_blank&quot;&gt;Gonnet et al. 2013&lt;/a&gt;. 
 For more information and relevant publications please visit
-&lt;a href=&quot;http://swift.dur.ac.uk&quot; target=&quot;_blank&quot;&gt;Durham’s&lt;/a&gt;
+&lt;a href=&quot;http://icc.dur.ac.uk/swift/&quot; target=&quot;_blank&quot;&gt;Durham’s&lt;/a&gt;
 project description page or contact
 &lt;a href=&quot;https://www.mpa-garching.mpg.de/person/55019/2377&quot; target=&quot;_blank&quot;&gt;Matthieu Schaller&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -380,7 +375,7 @@ project description page or contact
     
       <item>
         <title>The Aquila Project</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/Aquila.png&quot; alt=&quot;Maps of the dark matter distribution.&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/Aquila.png&quot; alt=&quot;Maps of the dark matter distribution&quot; style=&quot;display: block; margin-left: auto;  margin-right: auto; width: 75%&quot; /&gt;&lt;/p&gt;
 &lt;figcaption&gt;Maps of the dark matter distribution in the region surrounding the Aquila halo at z = 0. The dark matter
 is projected in cubic volumes of side length as indicated in each panel. Pixel brightness corresponds to the dark
 matter density using a logarithmic scale.&lt;/figcaption&gt;
@@ -406,13 +401,19 @@ times each with different sub-grid physics modules). The various codes differ in
 &lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
 
 &lt;p&gt;The initial paper for “The Aquila Project” has been published as 
-&lt;a href=&quot;https://academic.oup.com/mnras/article/423/2/1726/969849&quot; target=&quot;_blank&quot;&gt;Scannapieco et al. 2012&lt;/a&gt;.
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2012MNRAS.423.1726S/abstract&quot; target=&quot;_blank&quot;&gt;Scannapieco et al. 2012&lt;/a&gt;.
 For more information please contact
 &lt;a href=&quot;https://www.aip.de/Members/cscannapieco&quot; target=&quot;_blank&quot;&gt;Cecilia Scannapieco&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Jun 2012 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/2012/06/08/Aquila/</link>
         <guid isPermaLink="true">http://localhost:4000/2012/06/08/Aquila/</guid>
+        
+        <category>Aquila</category>
+        
+        <category>GADGET</category>
+        
+        <category>AREPO</category>
         
         
         <category>Page_Legacy</category>
@@ -431,9 +432,9 @@ shows the projected gas density.&lt;/figcaption&gt;
 
 &lt;p&gt;OWLS (OverWhelmingly Large Simulations) project consists of a large suite of cosmological, smoothed particle 
 hydrodynamics (SPH) simulations with varying box sizes and resolutions. It was made possible by the temporary 
-availability of the supercomputer that serves as the correlator for the Low Frequency Array (LOFAR) telescope, aims 
-to use the potential of simulations to gain insight into the physics that determines the formation of galaxies and 
-the intergalactic medium.&lt;/p&gt;
+availability of the supercomputer that serves as the correlator for the Low Frequency Array (LOFAR) telescope, and
+aims to use the potential of simulations to gain insight into the physics that determines the formation of galaxies
+and the evolution of the intergalactic medium&lt;/p&gt;
 
 &lt;p&gt;The real power of the project stems, however, not from the size of the simulations, but from the fact that they are 
 repeated many (more than 50) times, each time varying a subgrid prescription, most of which were newly developed  &lt;br /&gt;
@@ -448,7 +449,7 @@ The colour coding shows the projected gas density.&lt;/figcaption&gt;
 &lt;h1 align=&quot;center&quot;&gt;References&lt;/h1&gt;
 
 &lt;p&gt;The initial paper for “The OWLS Project” has been published as 
-&lt;a href=&quot;https://academic.oup.com/mnras/article/402/3/1536/988975&quot; target=&quot;_blank&quot;&gt;Schaye et al. 2010&lt;/a&gt;.
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2010MNRAS.402.1536S/abstract&quot; target=&quot;_blank&quot;&gt;Schaye et al. 2010&lt;/a&gt;.
 For more information please contact
 &lt;a href=&quot;https://home.strw.leidenuniv.nl/~schaye/&quot; target=&quot;_blank&quot;&gt;Joop Schaye&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -509,6 +510,8 @@ project description page or contact
         
         <category>Auriga</category>
         
+        <category>Aquila</category>
+        
         
         <category>Page_Codes</category>
         
@@ -538,7 +541,7 @@ density of galaxies; at fixed mass, the properties of galaxies are similar acros
 &lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
 
 &lt;p&gt;The initial paper for “The GIMIC Project” has been published as 
-&lt;a href=&quot;https://academic.oup.com/mnras/article/399/4/1773/1032849&quot; target=&quot;_blank&quot;&gt;Crain et al. 2009&lt;/a&gt;. 
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2009MNRAS.399.1773C/abstract&quot; target=&quot;_blank&quot;&gt;Crain et al. 2009&lt;/a&gt;. 
 For more information and relevant publications please visit
 &lt;a href=&quot;http://www.astro.ljmu.ac.uk/~astrcrai/?page_id=681&quot; target=&quot;_blank&quot;&gt;Robert Crain’s&lt;/a&gt;
 project description page or contact
@@ -589,7 +592,7 @@ to z=0.&lt;/figcaption&gt;
 &lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
 
 &lt;p&gt;The initial paper for “The Aquarius Project” has been published as 
-&lt;a href=&quot;https://academic.oup.com/mnras/article/391/4/1685/1747035&quot; target=&quot;_blank&quot;&gt;Springel et al. 2008&lt;/a&gt;. 
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2008MNRAS.391.1685S/abstract&quot; target=&quot;_blank&quot;&gt;Springel et al. 2008&lt;/a&gt;. 
 For more information and relevant publications please visit 
 &lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/aquarius/&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
 project description page or contact
@@ -637,7 +640,7 @@ Your browser does not support the video tag.
 &lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
 
 &lt;p&gt;The initial paper for “The Millennium Project” has been published as 
-&lt;a href=&quot;https://www.nature.com/articles/nature03597&quot; target=&quot;_blank&quot;&gt;Springel et al. 2005&lt;/a&gt;. 
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2005Natur.435..629S/abstract&quot; target=&quot;_blank&quot;&gt;Springel et al. 2005&lt;/a&gt;. 
 For more information and relevant publications please visit 
 &lt;a href=&quot;http://www.mpa-garching.mpg.de/millennium&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
 project description page or contact
@@ -760,6 +763,8 @@ project description page or contact
         
         <category>Millennium</category>
         
+        <category>Aquila</category>
+        
         
         <category>Page_Codes</category>
         
@@ -792,7 +797,7 @@ clustering evolution is incorporated in output data.&lt;/p&gt;
 &lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
 
 &lt;p&gt;The initial paper for “The Hubble Volume Project” has been published as 
-&lt;a href=&quot;https://academic.oup.com/mnras/article/319/1/209/1076270&quot; target=&quot;_blank&quot;&gt;Colberg et al. 2000&lt;/a&gt;.
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2000MNRAS.319..209C/abstract&quot; target=&quot;_blank&quot;&gt;Colberg et al. 2000&lt;/a&gt;.
 For more information please visit 
 &lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/galform/virgo/hubble/index.shtml&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
 project description page.&lt;/p&gt;
@@ -866,7 +871,7 @@ now denote the B-V colours of the galaxies, ranging from red for ellipticals to 
 &lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
 
 &lt;p&gt;The initial paper for “The GIF Project” has been published as 
-&lt;a href=&quot;https://academic.oup.com/mnras/article/303/1/188/1142139&quot; target=&quot;_blank&quot;&gt;Kauffmann et al. 1999&lt;/a&gt;. 
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/1999MNRAS.303..188K/abstract&quot; target=&quot;_blank&quot;&gt;Kauffmann et al. 1999&lt;/a&gt;. 
 For more information please visit 
 &lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/galform/gif/index.shtml&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
 project description page or contact
@@ -941,7 +946,7 @@ difference at the same epoch along the vertical sequence.&lt;/figcaption&gt;
 &lt;h1 align=&quot;center&quot;&gt;Reference&lt;/h1&gt;
 
 &lt;p&gt;The initial paper for “The VIRGO Project” has been published as 
-&lt;a href=&quot;https://iopscience.iop.org/article/10.1086/305615&quot; target=&quot;_blank&quot;&gt;Jenkins et al. 1998&lt;/a&gt;. 
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/1998ApJ...499...20J/abstract&quot; target=&quot;_blank&quot;&gt;Jenkins et al. 1998&lt;/a&gt;. 
 For more information please visit 
 &lt;a href=&quot;https://wwwmpa.mpa-garching.mpg.de/Virgo/virgoproject.html&quot; target=&quot;_blank&quot;&gt;MPA’s&lt;/a&gt;
 project description page or contact
@@ -950,6 +955,8 @@ project description page or contact
         <pubDate>Wed, 20 May 1998 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/1998/05/20/VIRGO/</link>
         <guid isPermaLink="true">http://localhost:4000/1998/05/20/VIRGO/</guid>
+        
+        <category>Virgo</category>
         
         
         <category>Page_Legacy</category>
@@ -975,6 +982,8 @@ project data page or contact
         <pubDate>Wed, 20 May 1998 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/1998/05/20/VIRGO_Data/</link>
         <guid isPermaLink="true">http://localhost:4000/1998/05/20/VIRGO_Data/</guid>
+        
+        <category>Virgo</category>
         
         
         <category>Page_Data</category>

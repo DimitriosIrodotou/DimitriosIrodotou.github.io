@@ -5,10 +5,11 @@ date: 2012-06-08
 description: "Comparing the predictions of different codes using common initial conditions and a homogeneous set of
  analysis tools." 
 image: /assets/images/Aquila.png
-tags: [Aquila]
+tags: [Aquila, GADGET, AREPO]
 ---
 
-<img src="/assets/images/Aquila.png" alt="Maps of the dark matter distribution."/>
+<img src="/assets/images/Aquila.png" alt="Maps of the dark matter distribution" style="display: block; margin-left: auto; 
+margin-right: auto; width: 75%"/>
 <figcaption>Maps of the dark matter distribution in the region surrounding the Aquila halo at z = 0. The dark matter
 is projected in cubic volumes of side length as indicated in each panel. Pixel brightness corresponds to the dark
 matter density using a logarithmic scale.</figcaption>
@@ -35,6 +36,6 @@ height:100%;"/>
 <h1 align="center">References</h1>
 
 The initial paper for "The Aquila Project" has been published as 
-[Scannapieco et al. 2012](https://academic.oup.com/mnras/article/423/2/1726/969849){:target="_blank"}.
+[Scannapieco et al. 2012](https://ui.adsabs.harvard.edu/abs/2012MNRAS.423.1726S/abstract){:target="_blank"}.
 For more information please contact
 [Cecilia Scannapieco](https://www.aip.de/Members/cscannapieco){:target="_blank"}.

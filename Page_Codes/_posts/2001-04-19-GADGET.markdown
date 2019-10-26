@@ -4,7 +4,7 @@ title: "The GADGET Code"
 date: 2001-04-19
 description: "A freely available code for cosmological N-body/SPH simulations." 
 image: /assets/images/GADGET.jpeg
-tags: [GADGET, EAGLE, Hydrangea, BAHAMAS, Apostle, OWLS, GIMIC, Aquarius, Millennium]
+tags: [GADGET, EAGLE, Hydrangea, BAHAMAS, Apostle, OWLS, GIMIC, Aquarius, Millennium, Aquila]
 ---
 
 <img src="/assets/images/GADGET.jpeg" alt="GADGET" style="display: block; margin-left: auto; 

@@ -18,7 +18,7 @@ time-variable dark energy models and modified gravity models.</figcaption>
 <h1 align="center">About</h1>
 
 The BAHAMAS (BAryons and HAloes of MAssive Systems) project is a large-volume, cosmological simulations 
-which was developed as part of the OWLS project. It is a first attempt to calibrate the feedback on the total baryon 
+which grew out of the (Cosmo-)OWLS project. It is a first attempt to calibrate the feedback on the total baryon 
 content of haloes and is the first study to explicitly calibrate the feedback on the observed properties of massive 
 haloes.
 
@@ -37,7 +37,7 @@ show the tSZ signal, the X-ray flux and the lensing convergence, centred on the 
 <h1 align="center">References</h1>
 
 The initial paper for "The BAHAMAS Project" has been published as 
-[McCarthy et al. 2016](https://academic.oup.com/mnras/article/465/3/2936/2417021){:target="_blank"}.
+[McCarthy et al. 2017](https://ui.adsabs.harvard.edu/abs/2017MNRAS.465.2936M/abstract){:target="_blank"}.
 For more information and relevant publications please visit
 [LJMU’s](http://www.astro.ljmu.ac.uk/~igm/BAHAMAS/index.html){:target="_blank"}
 project description page or contact

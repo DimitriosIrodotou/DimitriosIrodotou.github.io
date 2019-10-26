@@ -35,7 +35,7 @@ Your browser does not support the video tag.
 <h1 align="center">Reference</h1>
 
 The initial paper for "The Millennium Project" has been published as 
-[Springel et al. 2005](https://www.nature.com/articles/nature03597){:target="_blank"}. 
+[Springel et al. 2005](https://ui.adsabs.harvard.edu/abs/2005Natur.435..629S/abstract){:target="_blank"}. 
 For more information and relevant publications please visit 
 [MPA's](http://www.mpa-garching.mpg.de/millennium){:target="_blank"}
 project description page or contact

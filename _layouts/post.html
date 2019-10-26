@@ -64,7 +64,7 @@ layout: default
 
     <!-- Links to Previous/Next posts -->
     {% assign relatedTag = page.tags | first %}
-<!--    {% if site.tags[relatedTag].size > 1 %} Doesn't affect the code if the continue is used-->
+    {% if site.tags[relatedTag].size > 1 %}
     {% if relatedTag %}
     <section class="related section-padding">
         <div class="grid-xlarge">
@@ -90,6 +90,6 @@ layout: default
             </div>
         </div>
     </section>
-<!--    {% endif %}-->
+    {% endif %}
     {% endif %}
 </font>

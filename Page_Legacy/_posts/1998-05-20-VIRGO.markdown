@@ -30,7 +30,7 @@ difference at the same epoch along the vertical sequence.</figcaption>
 <h1 align="center">Reference</h1>
 
 The initial paper for "The VIRGO Project" has been published as 
-[Jenkins et al. 1998](https://iopscience.iop.org/article/10.1086/305615){:target="_blank"}. 
+[Jenkins et al. 1998](https://ui.adsabs.harvard.edu/abs/1998ApJ...499...20J/abstract){:target="_blank"}. 
 For more information please visit 
 [MPA's](https://wwwmpa.mpa-garching.mpg.de/Virgo/virgoproject.html){:target="_blank"}
 project description page or contact

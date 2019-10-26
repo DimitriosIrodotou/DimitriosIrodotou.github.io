@@ -38,7 +38,7 @@ these, field lines indicate the directions of the magnetic field.</figcaption>
 <h1 align="center">References</h1>
 
 The initial paper for "The Auriga Project" has been published as
-[Grand et al. 2016](https://academic.oup.com/mnras/article/459/1/199/2608880){:target="_blank"}.
+[Grand et al. 2016](https://ui.adsabs.harvard.edu/abs/2016MNRAS.459..199G/abstract){:target="_blank"}.
 For more information and relevant publications please visit
 [MPA's](https://wwwmpa.mpa-garching.mpg.de/auriga/index.html){:target="_blank"}
 project description page or contact
