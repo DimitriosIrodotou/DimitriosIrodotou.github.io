@@ -1,9 +1,11 @@
 links:
-- name: Portfolio
-  link: /portfolio/
-- name: Blog
-  link: /blog/
-- name: About
-  link: /about/
+- name: Home
+  link: /index/
+- name: Research
+  link: /research/
+- name: Publications
+  link: /Publications/
 - name: Contact
   link: /contact/
+#- name: Blog
+#  link: /blog/

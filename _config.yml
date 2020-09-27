@@ -1,5 +1,5 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+title: Dimitrios Irodotou
+url:
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,15 +10,15 @@ description: Jekyll template with example content for a web agency.
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name:
-  email:
+  name: Dimitrios Irodotou
+  email: di.irodotou@gmail.com
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name: Dimitrios Irodotou
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+    -
 
 timezone: Etc/UTC
 

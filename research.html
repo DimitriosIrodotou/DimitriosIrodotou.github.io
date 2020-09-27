@@ -1,0 +1,19 @@
+---
+title: Research
+heading: Past and currect research projects
+subtitle: "Below you can find brief descriptions of research areas I have recently worked on or I am currently
+working in."
+---
+
+<section class="diagonal patterned">
+    <div class="container">
+        <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/"
+                                                              class="btn"><strong>&#9998;</strong>Manage Staff
+            members</a></p>
+        <ul class="image-grid">
+            {% for member in site.staff_members %}
+            <li>{% include staff-member.html member=member %}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</section>
