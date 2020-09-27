@@ -1,12 +1,16 @@
 <nav>
-  <ul class="header__list">
-<!--    <li><a href="{{ '/' | prepend: site.baseurl }}">About</a></li>-->
-    <li><a href="{{ '/Page_About/About' | prepend: site.baseurl }}">About</a></li>
-    <li><a href="{{ '/Page_Projects/Projects' | prepend: site.baseurl }}">Current Projects</a></li>
-    <li><a href="{{ '/Page_Legacy/Legacy' | prepend: site.baseurl }}">Legacy Projects</a></li>
-    <li><a href="{{ '/Page_Codes/Codes' | prepend: site.baseurl }}">Codes</a></li>
-    <li><a href="{{ '/Page_Data/Data' | prepend: site.baseurl }}">Data</a></li>
-    <li><a href="{{ '/Page_Meetings/Meetings' | prepend: site.baseurl }}">Meetings</a></li>
-<!--    <li><span class="popup__open">Contact</span></li>-->
-  </ul>
+	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
+	<ul>
+		{% for link in site.data.navigation.links %}
+			{% assign class = "" %}
+			{% if link.highlight %}
+				{% assign class = class | append: " highlight" %}
+			{% endif %}
+
+			{% if link.link == page.url %}
+				{% assign class = class | append: " active" %}
+			{% endif %}
+			<li><a href="{{ site.baseurl }}{{ link.link }}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a></li>
+		{% endfor %}
+	</ul>
 </nav>

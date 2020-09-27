@@ -1,126 +1,78 @@
-# The Virgo Website
-Welcome to The Virgo Website. The following text explains how the website is structured and also contains steps in 
-order to amend its content.
+# Urban
 
-### Creating Pages
-A page file **MUST** be in the ````root```` directory. You can create a folder and add all the relevant posts for 
-the corresponding page.
+Web Agency themed business template for Jekyll. Browse through a [live demo](https://teal-worm.cloudvent.net/).
+Increase the web presence of your agency with this configurable theme.
 
-The simplest way of creating a new page is to add an HTML file with a suitable layout and front matter.
+![Urban template screenshot](images/_screenshot.png)
 
-* Layouts (in ````_layouts```` directory): Layouts are templates that wrap around your content. They allow you to have the 
-source code for your template in one place so you don’t have to repeat things like your navigation and footer on 
-every page.
+Urban was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
 
-* Front matter: The front matter must be the first thing in the file and must take the form of valid YAML set between 
-triple-dashed lines. Between these triple-dashed lines, you can set predefined variables or even create custom ones 
-of your own. These variables will then be available to you to access using Liquid tags both further down in the file 
-and also in any layouts or includes that the page or post in question relies on.
+Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
-For example:
+## Features
 
-```
+* Contact form
+* Pre-built pages
+* Pre-styled components
+* Blog with pagination
+* Post category pages
+* Disqus comments for posts
+* Staff and author system
+* Configurable footer
+* Optimised for editing in [CloudCannon](https://cloudcannon.com/)
+* RSS/Atom feed
+* SEO tags
+* Google Analytics
 
----
-layout: page
-title: "Virgo Meetings"
-image: /assets/images/Meetings.jpg
----
-```
-### Creating Posts
-A post file **MUST** be in the ````_posts```` directory and **MUST** have a name with the following format: 
-year-month-day-title.markdown
+## Setup
 
-All posts must begin with front matter which is typically used to set a layout or other meta data (see below)
+1. Add your site and author details in `_config.yml`.
+2. Add your Google Analytics and Disqus keys to `_config.yml`.
+3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
-For example:
+## Develop
 
-```
+Urban was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
----
-layout: post
-title: "The Hydrangea Project"
-date: 2017-06-14
-description: "A suite of 24 cosmological hydrodynamic zoom-in simulations of massive galaxy clusters."
-image: /assets/images/Hydrangea.png
-tags: [Hydrangea, GADGET]
----
-```
-### Assets
-The ````assets```` folder **MUST** be in the ````root```` directory. 
+Install the dependencies with [Bundler](https://bundler.io/):
 
-Any css, images, files, js or videos are placed in there. Then, from within any post or page, they can be linked to 
-using the site’s root as the path for the asset to include.
+~~~bash
+$ bundle install
+~~~
 
-### Source Code
-Below you can find the source code:
+Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
-```
-.
-├── _assets
-|   ├── js
-|   └── scss
-├── _includes
-|   ├── contact.html
-|   ├── disqus.html
-|   ├── footer.html
-|   ├── formcarry.html
-|   ├── head.html
-|   ├── header.html
-|   ├── navigation.html
-|   ├── pagination.html
-|   ├── post-card.html
-|   ├── share.html
-|   ├── social.html
-|   └── subscribe_form.html
-├── _layouts
-|   ├── about.html
-|   ├── compress.html
-|   ├── default.html
-|   ├── index.html
-|   ├── page.html
-|   ├── post.html
-|   └── tag.html
-├── _plugins
-├── _site
-├── assets
-|   ├── css
-|   ├── files
-|   ├── images
-|   ├── js
-|   └── videos
-├── Page_About
-|   ├── About.html
-├── Page_Codes
-|   ├── _posts
-|   └── Codes.html
-├── Page_Data
-|   ├── _posts
-|   └── Data.html
-├── Page_Legacy
-|   ├── _posts
-|   └── Legacy.html
-├── Page_Meetings
-|   ├── _posts
-|   └── Meetings.html
-├── Page_Projects
-|   ├── _posts
-|   └── Projects.html
-├── .eslintrc
-├── .gitignore
-├── .stylelintrc
-├── 404.html
-├── _config.yml
-├── Gemfile
-├── Gemfile.lock
-├── gulpfile.js
-├── index.html
-├── package.json
-├── README.md
-├── style-guidle.html
-└── subscribe.html
+~~~bash
+$ bundle exec jekyll serve
+~~~
 
-```
-### Credits
-This website has been built using Jekyll (https://jekyllrb.com) and specifically the Barber Jekyll theme, a blog 
-theme for Jekyll built by Thomas Vaeth at Samesies (https://jekyllthemes.io/theme/barber)
+## Editing
+
+Urban is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
+
+### Posts
+
+* Add, update or remove a post in the *Posts* collection.
+* The **Staff Author** field links to members in the **Staff** collection.
+* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
+* Change the defaults when new posts are created in `_posts/_defaults.md`.
+
+### Contact Form
+
+* Preconfigured to work with [CloudCannon](https://app.cloudcannon.com/), but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
+* Sends email to the address listed in company details.
+
+### Staff
+
+* Reused around the site to save multiple editing locations.
+* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
+
+### Footer
+
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Footer* section.
+
+### Company details
+
+* Reused around the site to save multiple editing locations.
+* Set in the *Data* / *Company* section.

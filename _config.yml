@@ -1,61 +1,100 @@
-# Site/SEO settings
-email: dimitrios.irodotou@sussex.ac.uk
-baseurl: ""
-paginate: 12 # number of posts per page
-paginate_path: "/page/:num"
-permalink: /:year/:month/:day/:title/
-google_analytics:
+title: Urban Template
+url: "https://teal-worm.cloudvent.net"
+baseurl:
+google_analytics_key:
+google_maps_javascript_api_key:
+disqus_shortname:
 
-name: Dimitrios Irodotou
-title: The Virgo Consortium
-#description:
-#url:
-#twitter_username:
-default_img: /assets/images/Logo.jpg
-social:
-#  - name: twitter
-#    url:
-#  - name: instagram
-#    url:
-#  - name: linkedin
-#    url:
-#  - name: github
-#    url:
-#  - name: codepen
-#    url:
+# Default description in social shares for the jekyll-seo-tag gem
+description: Jekyll template with example content for a web agency.
 
-# Contact settings
-contact_img: /assets/images/Logo2.png
-formcarry: dimitrios.irodotou@sussex.ac.uk
-
-# Disqus settings
-disqus: test-apkdzgmqhj
-
-# MailChimp settings
-mailchimp_action:
-mailchimp_input:
-
-# Author settings
+# Author details for the jekyll-seo-tag gem
 author:
-  - name: Dimitrios Irodotou
-    bio:
-    url:
+  name:
+  email:
+  twitter: # twitter username without the @ symbol
 
-# Build settings
-markdown: kramdown
+# Social details for the jekyll-seo-tag gem
+social:
+  name: Urban Template
+  links:
+    - https://github.com/CloudCannon/urban-jekyll-template
+
+timezone: Etc/UTC
+
+collections:
+  staff_members:
+    output: false
+  clients:
+    output: true
+
+paginate: 10
+paginate_path: "/blog/:num/"
+permalink: pretty
+
+jekyll-archives:
+  enabled:
+    - "categories"
+
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-compress_html:
-  clippings: all
-  comments: all
-  startings: [html, head, body]
+  - "jekyll-feed"
+  - "jekyll-seo-tag"
+  - "jekyll-paginate"
+  - "jekyll-archives"
+
 exclude:
-  - node_modules
-  - .DS_Store
   - Gemfile
   - Gemfile.lock
-  - gulpfile.js
-  - package.json
   - README.md
-  - vendor
+  - LICENCE
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      _options:
+        content:
+          width: 960
+          height: 2000
+  - scope:
+      path: ""
+      type: "clients"
+    values:
+      layout: "client"
+      _options:
+        image_path:
+          width: 2000
+          height: 2000
+  - scope:
+      path: ""
+      type: "staff_members"
+    values:
+      _options:
+        image_path:
+          width: 600
+          height: 600
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "index.html"
+      type: "pages"
+    values:
+      layout: "default"
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Facebook
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS

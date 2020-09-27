@@ -1,27 +1,17 @@
 ---
 layout: default
 ---
-<section class="post">
-    <div>
-        <div class="post__header section-padding--half">
-            <div class="grid-small">
-            </div>
-        </div>
-
-        {% if page.image %}
-        <div class="centre">
-            <div>
-                <img src="{{ page.image }}" itemprop="image"/>
-            </div>
-        </div>
-        {% endif %}
-
-        <div class="post__content section-padding">
-            <div class="grid-small">
-                <div id="markdown">
-                    {{content}}
-                </div>
-            </div>
-        </div>
-    </div>
+<section class="hero diagonal">
+	<div class="container" {% if page.full_width %}style="max-width: 100%"{% endif %}>
+		{% if page.heading %}
+			<h2>{{ page.heading }}</h2>
+		{% elsif page.title %}
+			<h2>{{ page.title }}</h2>
+		{% endif %}
+		{% if page.subtitle %}
+			<p class="subtext">{{ page.subtitle }}</p>
+		{% endif %}
+	</div>
 </section>
+
+{{ content }}

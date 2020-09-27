@@ -1,95 +1,66 @@
 ---
-layout: default
+layout: page
 ---
-<font size="3">
-    <div class="post">
-        <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
-            <!--            <div class="post__header section-padding&#45;&#45;double">-->
-            <!--                <div class="grid-small">-->
-            <!--                    <font size="5">-->
-            <!--                    <h2 itemprop="name headline">{{ page.title }}</h2>-->
-            <!--                    </font>-->
-            <!--
-                            <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{
-                                page.date | date: "%-d %b %Y" }}
-                            </time>
-                            -->
-            <!--                </div>-->
-            <!--            </div>-->
+<section class="diagonal">
+	<div class="blog-post text-container">
+		{% include post-title.html post=page %}
+		<div class="post-content">
+			{{ content }}
+		</div>
+	</div>
+</section>
 
-            <!--            {% if page.image %}-->
-            <!--            <div class="post__img">-->
-            <!--                <div>-->
-            <!--                    <figure class="absolute-bg" style="background-image: url('{{ page.image }}');"></figure>-->
-            <!--                </div>-->
-            <!--            </div>-->
-            <!--            {% endif %}-->
 
-            <div class="post__content section-padding">
-                <div class="grid">
-                    <div id="markdown" itemprop="articleBody">
-                        {{content}}
-                    </div>
-                    {% include share.html %}
-                </div>
-            </div>
+{% if page.author_staff_member %}
+	<section class="diagonal patterned">
+		<div class="container">
+			<h2>Author</h2>
+			<ul class="image-grid">
+				{% assign author_id = page.author_staff_member | prepend: "/staff_members/" | append: "/" %}
+				{% assign author = site.staff_members | where: "url", author_id | first %}
 
-            <!-- Everything inside the #author tags pulls data from the author -->
-            {% if page.author %}
-            <div class="section-padding--none">
-                <div class="grid">
-                    <hr class="sep"/>
-                </div>
-            </div>
+				<li>{% include staff-member.html member=author %}</li>
+			</ul>
+		</div>
+	</section>
+{% endif %}
 
-            <div class="section-padding">
-                <!--
-    <div class="grid-small">
-    {% for author in site.author %}
-    <span class="post__author">Posted by {% if author["name"] == page.author and author["url"] %}<a
-            href="{{ author['url'] }}" title="More By {{ page.author }}">{% endif %}{{ page.author }}{% if author["name"] == page.author and author["url"] %}</a>{% endif %}</span>
-    {% if author["name"] == page.author %}
-    <p class="post__bio">{{ author["bio"] }}</p>
-    {% endif %}
-    {% endfor %}
-    </div>
-                                    -->
-            </div>
-            {% endif %}
+<section class="diagonal alternate">
+	<div class="text-container">
+		<h2>Next post</h2>
+		<div class="blog-post">
+			{% if page.next %}
+				{% include post-summary.html post=page.next %}
+			{% elsif page.previous %}
+				{% include post-summary.html post=page.previous %}
+			{% endif %}
+		</div>
+	</div>
+</section>
 
-            {% include disqus.html %}
-
-        </article>
-    </div>
-
-    <!-- Links to Previous/Next posts -->
-    {% assign relatedTag = page.tags | first %}
-    {% if site.tags[relatedTag].size > 1 %}
-    {% if relatedTag %}
-    <section class="related section-padding">
-        <div class="grid-xlarge">
-            <h2 class="related__title">Related Pages</h2>
-            <div class="related__container">
-                {% for post in site.tags[relatedTag] limit: 10 %}
-                {% if page.title == post.title %}
-                {% continue %}
-                {% endif %}
-                <article class="related__post">
-                    <a class="related__link" href="{{ post.url | absolute_url }}">
-                        {% if post.image %}
-                        <figure class="related__img">
-                            <img src="{{ post.image }}" alt="{{ post.title }}"/>
-                        </figure>
-                        {% endif %}
-                        <div>
-                            <h2 class="related__text">{{ post.title }}</h2>
-                        </div>
-                    </a>
-                </article>
-                {% endfor %}
-            </div>
-        </div>
-    </section>
-    {% endif %}
-    {% endif %}
-</font>
+{% if site.disqus_shortname and page.show_comments %}
+	<section class="diagonal">
+		<div class="container">
+			<h2>Comments</h2>
+			<div id="disqus_thread"></div>
+			<script>
+				/**
+				*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+				*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+				/*
+				var disqus_config = function () {
+				this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+				this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+				};
+				*/
+				(function() { // DON'T EDIT BELOW THIS LINE
+				var d = document, s = d.createElement('script');
+				s.src = '//{{ site.disqus_shortname }}.disqus.com/embed.js';
+				s.setAttribute('data-timestamp', +new Date());
+				(d.head || d.body).appendChild(s);
+				})();
+			</script>
+			<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+		</div>
+	</section>
+{% endif %}
