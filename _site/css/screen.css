@@ -4,7 +4,7 @@ html, body { margin: 0; padding: 0; }
 
 body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-a { color: #FFA715; text-decoration: none; }
+a { color: #FFA715; text-decoration: underline; }
 
 a:hover { text-decoration: underline; }
 
@@ -54,7 +54,7 @@ section.hero h2, footer.hero h2, section.hero p, footer.hero p { max-width: 90%;
 
 section.hero h2, footer.hero h2 { font-size: 3.5rem; }
 
-section.hero p, footer.hero p { font-size: 1.8rem; color: #fff; }
+section.hero p, footer.hero p { font-size: 1.5rem; color: #fff; }
 
 section.hero a:not(.button), footer.hero a:not(.button) { color: #ffffff; font-style: italic; }
 

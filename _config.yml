@@ -23,7 +23,7 @@ social:
 timezone: Etc/UTC
 
 collections:
-  staff_members:
+  publications:
     output: false
   clients:
     output: true
@@ -69,7 +69,7 @@ defaults:
           height: 2000
   - scope:
       path: ""
-      type: "staff_members"
+      type: "publications"
     values:
       _options:
         image_path:

@@ -1,0 +1,7 @@
+<a target="_blank" href="{{ include.member.external_url }}">
+    <div class="square-image"><img src="{% include relative-src.html src=member.image_path %}"></div>
+    <div class="details">
+        <div class="name">{{ include.member.title }}</div>
+        <div class="position">{{ include.member.authors }}</div>
+    </div>
+</a>

@@ -7,7 +7,7 @@ title: DI
         <h2 class="editable">Welcome,</h2>
         <p class="subtext editable">
         <p>
-            my name is Dimitrios Irodotou and I am a PhD student at the University of Sussex
+            my name is Dimitrios Irodotou and I am an Astronomy PhD student at the University of Sussex
             in Brighton, United Kingdom.</p>
 
         <p>
@@ -19,11 +19,7 @@ title: DI
             and the <a href="https://wwwmpa.mpa-garching.mpg.de/auriga/">Auriga</a> suite of high-resolution
             magneto-hydrodynamical simulations of Milky Way-sized galaxies.
         <p>
-            I'm highly interested in the dynamics of galaxies and their components and my main focus is .  For more
-        details please visit the <a href="{{ site.baseurl }}/research/">Research</a> and <a href="{{ site.baseurl }}/publications/">
-            Publications</a> pages.
-        </p>
-        <p>
+            I'm highly interested in the dynamics of galaxies and my main focus is the properties of their components.
             If you're interested in any of these topics please get in touch!</p>
         <p><a class="button alt" href="{{ site.baseurl }}/contact/">Contact Me</a></p>
     </div>
@@ -32,15 +28,20 @@ title: DI
 <section class="diagonal patterned">
     <div class="container halves">
         <div>
-            <h3 class="editable">Some of my work</h3>
-            <p class="editable">Here you can find information about my research.</p>
-            <p class="editable"><a href="{{ site.baseurl }}/publications/">View Full Publications &rarr;</a></p>
+            <h3 class="editable">Research</h3>
+            <p class="editable">Here you can find more information about my research.</p>
+            <p
+                    class="editable"><a href="{{ site.baseurl }}/research/">View full research and publications</a>
+            </p>
         </div>
         <div>
             <ul class="image-grid">
-                {% for client in site.clients limit: 4 %}
-                <li><a href="{{ site.baseurl }}{{ client.url }}"><img
-                        src="{% include relative-src.html src=client.image_path %}"></a></li>
+                {% for member in site.publications limit: 2 %}
+                <li>href="{{ site.baseurl }}{{ member.external_url }}"
+                    <div class="square-image">
+                        <img
+                                src="{% include relative-src.html src=member.image_path %}"></div>
+                </li>
                 {% endfor %}
             </ul>
         </div>
@@ -51,16 +52,14 @@ title: DI
     <div class="container halves">
         <div>
             <ul class="image-list">
-                <li><img src="{{ site.baseurl }}/images/cloudcannon-logo-blue.svg" width="250"
+                <li><img src="{{ site.baseurl }}/images/IMG_1251.jpeg" width="500"
                          style="margin-bottom: 40px;"></li>
-                <li><img src="{{ site.baseurl }}/images/jekyll-logo-black-red-transparent.png" width="300"></li>
             </ul>
         </div>
         <div>
-            <h3 class="editable">Latest software, greatest perfomance</h3>
-            <p class="editable">As a new agency we get reap the benefits of the latest and greatest. We build our
-                websites with the most up to date technology. This ensures your website is fast, efficient and reliable
-                for many years.</p>
+            <h3 class="editable">Bio</h3>
+            <p class="editable">Here you can find more information about me</p>
+            <p class="editable"><a href="{{ site.baseurl }}/bio/">View full biography</a></p>
         </div>
     </div>
 </section>
