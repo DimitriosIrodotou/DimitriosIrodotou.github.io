@@ -34,7 +34,7 @@
 		<header>
 			<div class="container">
 				<h1 class="company-name"><a href="/"><img src="/images/siteicon.png"
-																			alt="Urban" width="150"></a></h1>
+																			alt="DI" width="150"></a></h1>
 				<nav>
 	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
 	<ul>
@@ -74,59 +74,61 @@
 			<h2>Feel free to get in touch!</h2>
 		
 		
-			<p class="subtext">Please use the form below</p>
+			<p class="subtext">Here you can find my contact details.</p>
 		
 	</div>
 </section>
 
-<section class="diagonal">
-	<div class="container">
-		<form action="/contact-success/" method="post" class="contact-form">
-			<input type="hidden" name="_to" value="support@example.com" />
-			<input type="text" name="_gotcha" style="display: none;" />
-
-			<div class="halves">
-				<div>
-					<label for="name">First Name</label>
-					<input type="text" name="first-name" id="first-name" placeholder="John" />
-				</div>
-
-				<div>
-					<label for="name">Last Name</label>
-					<input type="text" name="last-name" id="last-name" placeholder="Doe" />
-				</div>
-			</div>
-
-			<label for="email">Email Address</label>
-			<input type="email" name="email" id="email" placeholder="john@example.com" required />
-
-			<label for="message">Message</label>
-			<textarea name="message" id="message" placeholder="Hi There..."></textarea>
-
-			<input type="submit" value="Send Message" />
-		</form>
+<section class="diagonal patterned">
+	<div class="container halves aligned-top">
+		<div>
+			<h3>Address</h3>
+			<address><a target="_blank" href="https://www.google.com/maps/place/Brighton%2C+United+Kingdom">Brighton, <br>United Kingdom</a></address>
+		</div>
+		<div>
+			<h3>Email</h3>
+			<p><a href="mailto:di.irodotou@gmail.com">di.irodotou@gmail.com</a>
+				<a href="mailto:dimitrios.irodotou@sussex.ac.uk">dimitrios.irodotou@sussex.ac.uk</a></p>
+		</div>
+		<div>
+			<h3>ORCID iD</h3>
+			<p><a href="https://orcid.org/0000-0003-2946-8080">ORCID</a></p>
+		</div>
 	</div>
+<!--	<div class="container">-->
+<!--		<form action="/contact-success/" method="post" class="contact-form">-->
+<!--			<input type="hidden" name="_to" value="support@example.com" />-->
+<!--			<input type="text" name="_gotcha" style="display: none;" />-->
+
+<!--			<div class="halves">-->
+<!--				<div>-->
+<!--					<label for="name">First Name</label>-->
+<!--					<input type="text" name="first-name" id="first-name" placeholder="John" />-->
+<!--				</div>-->
+
+<!--				<div>-->
+<!--					<label for="name">Last Name</label>-->
+<!--					<input type="text" name="last-name" id="last-name" placeholder="Doe" />-->
+<!--				</div>-->
+<!--			</div>-->
+
+<!--			<label for="email">Email Address</label>-->
+<!--			<input type="email" name="email" id="email" placeholder="john@example.com" required />-->
+
+<!--			<label for="message">Message</label>-->
+<!--			<textarea name="message" id="message" placeholder="Hi There..."></textarea>-->
+
+<!--			<input type="submit" value="Send Message" />-->
+<!--		</form>-->
+<!--	</div>-->
 </section>
 
 <section class="diagonal map">
 	<div id="gmap_canvas"></div>
 </section>
 
-<section class="diagonal">
-	<div class="container halves aligned-top">
-		<div>
-			<h3>Address</h3>
-				<address><a target="_blank" href="https://www.google.com/maps/place/1+George+Street%2C+Dunedin%2C+New+Zealand">1 George Street, <br>Dunedin, <br>New Zealand</a></address>
-		</div>
-		<div>
-			<h3>Email</h3>
-			<p><a href="mailto:di.irodotou@gmail.com">di.irodotou@gmail.com</a></p>
-		</div>
-	</div>
-</section>
-
 <script type="text/javascript">
-	window.mapData = {"latitude":-45.8787605,"longitude":170.5027976,"address":"1 George Street, Dunedin, New Zealand","zoom":13};
+	window.mapData = {"latitude":50.82,"longitude":-0.137,"address":"Brighton, United Kingdom","zoom":7};
 
 	function initMap() {
 		var myOptions = {

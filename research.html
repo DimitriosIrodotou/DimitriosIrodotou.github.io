@@ -1,18 +1,26 @@
 ---
 title: Research
-heading: Past and current research projects
-subtitle: "Below you can find brief descriptions of research areas I have recently worked on or I am currently
-working in."
+heading: Research
+subtitle: "Here you can find brief descriptions of past and current research projects."
 ---
 
 <section class="diagonal patterned">
     <div class="container">
-        <h3 class="editable">Publications</h3>
-        <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_publications/"
-                                                              class="btn"><strong>&#9998;</strong>Manage Staff
-            members</a></p>
+        <h3 class="editable">Curriculum Vitae</h3>
+        <p>You can find a pdf version of my CV <a href="/Curriculum_Vitae.pdf">here</a></p>
+        <h3 class="editable">First author publications</h3>
+        <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_publications_fa/"
+                                                              class="btn"><strong>&#9998;</strong></a></p>
         <ul class="image-grid">
-            {% for member in site.publications %}
+            {% for member in site.publications_fa reversed %}
+            <li>{% include publications.html member=member %}</li>
+            {% endfor %}
+        </ul>
+        <h3 class="editable">Co-authored publications</h3>
+        <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_publications_co/"
+                                                              class="btn"><strong>&#9998;</strong></a></p>
+        <ul class="image-grid">
+            {% for member in site.publications_co reversed %}
             <li>{% include publications.html member=member %}</li>
             {% endfor %}
         </ul>

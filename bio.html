@@ -1,22 +1,25 @@
 ---
 title: Bio
 heading: Biography
-subtitle: Here you can find more information about me
+subtitle: Here you can find more information about me.
 ---
 
 <section class="diagonal patterned">
     <div class="container">
-        <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_clients/"
-                                                              class="btn"><strong>&#9998;</strong> Manage Clients</a>
+        <h3 class="editable">Curriculum Vitae</h3>
+        <p>You can find a pdf version of my CV <a href="/Curriculum_Vitae.pdf">here</a></p>
+        <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_bio/"
+                                                              class="btn"><strong>&#9998;</strong> Manage bio</a>
         </p>
+        <h3 class="editable">Education</h3>
         <ul class="image-grid">
-            {% for client in site.clients %}
+            {% for bio in site.bio reversed %}
             <li>
-                <a href="{{ site.baseurl }}{{ client.url }}">
-                    <img src="{% include relative-src.html src=client.image_path %}" alt="{{ person.name }}">
+                <a href="{{ site.baseurl }}{{ bio.url }}">
+                    <img src="{% include relative-src.html src=bio.image_path %}" alt="{{ person.name }}">
                     <div class="details">
-                        <div class="name">{{ client.name }}</div>
-                        <div class="position">{{ client.subtitle }}</div>
+                        <div class="name">{{ bio.name }}</div>
+                        <div class="position">{{ bio.subtitle }}</div>
                     </div>
                 </a>
             </li>

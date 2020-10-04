@@ -1,58 +1,60 @@
 ---
 title: Contact
 heading: Feel free to get in touch!
-subtitle: Please use the form below
+subtitle: Here you can find my contact details.
 map:
-  latitude: -45.8787605
-  longitude: 170.5027976
-  address: "1 George Street, Dunedin, New Zealand"
-  zoom: 13
+  latitude: 50.82
+  longitude: -0.137
+  address: "Brighton, United Kingdom"
+  zoom: 7
 ---
 
-<section class="diagonal">
-	<div class="container">
-		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-			<input type="hidden" name="_to" value="support@example.com" />
-			<input type="text" name="_gotcha" style="display: none;" />
-
-			<div class="halves">
-				<div>
-					<label for="name">First Name</label>
-					<input type="text" name="first-name" id="first-name" placeholder="John" />
-				</div>
-
-				<div>
-					<label for="name">Last Name</label>
-					<input type="text" name="last-name" id="last-name" placeholder="Doe" />
-				</div>
-			</div>
-
-			<label for="email">Email Address</label>
-			<input type="email" name="email" id="email" placeholder="john@example.com" required />
-
-			<label for="message">Message</label>
-			<textarea name="message" id="message" placeholder="Hi There..."></textarea>
-
-			<input type="submit" value="Send Message" />
-		</form>
+<section class="diagonal patterned">
+	<div class="container halves aligned-top">
+		<div>
+			<h3>Address</h3>
+			<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
+		</div>
+		<div>
+			<h3>Email</h3>
+			<p><a href="mailto:{{ site.data.company.contact_email_address }}">{{ site.data.company.contact_email_address }}</a>
+				<a href="mailto:dimitrios.irodotou@sussex.ac.uk">dimitrios.irodotou@sussex.ac.uk</a></p>
+		</div>
+		<div>
+			<h3>ORCID iD</h3>
+			<p><a href="https://orcid.org/0000-0003-2946-8080">ORCID</a></p>
+		</div>
 	</div>
+<!--	<div class="container">-->
+<!--		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">-->
+<!--			<input type="hidden" name="_to" value="support@example.com" />-->
+<!--			<input type="text" name="_gotcha" style="display: none;" />-->
+
+<!--			<div class="halves">-->
+<!--				<div>-->
+<!--					<label for="name">First Name</label>-->
+<!--					<input type="text" name="first-name" id="first-name" placeholder="John" />-->
+<!--				</div>-->
+
+<!--				<div>-->
+<!--					<label for="name">Last Name</label>-->
+<!--					<input type="text" name="last-name" id="last-name" placeholder="Doe" />-->
+<!--				</div>-->
+<!--			</div>-->
+
+<!--			<label for="email">Email Address</label>-->
+<!--			<input type="email" name="email" id="email" placeholder="john@example.com" required />-->
+
+<!--			<label for="message">Message</label>-->
+<!--			<textarea name="message" id="message" placeholder="Hi There..."></textarea>-->
+
+<!--			<input type="submit" value="Send Message" />-->
+<!--		</form>-->
+<!--	</div>-->
 </section>
 
 <section class="diagonal map">
 	<div id="gmap_canvas"></div>
-</section>
-
-<section class="diagonal">
-	<div class="container halves aligned-top">
-		<div>
-			<h3>Address</h3>
-				<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
-		</div>
-		<div>
-			<h3>Email</h3>
-			<p><a href="mailto:{{ site.data.company.contact_email_address }}">{{ site.data.company.contact_email_address }}</a></p>
-		</div>
-	</div>
 </section>
 
 <script type="text/javascript">

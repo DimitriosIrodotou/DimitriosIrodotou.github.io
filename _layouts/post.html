@@ -16,8 +16,17 @@ layout: page
 		<div class="container">
 			<h2>Author</h2>
 			<ul class="image-grid">
-				{% assign author_id = page.author_staff_member | prepend: "/publications/" | append: "/" %}
-				{% assign author = site.publications | where: "url", author_id | first %}
+				{% assign author_id = page.author_staff_member | prepend: "/publications_fa/" | append: "/" %}
+				{% assign author = site.publications_fa | where: "url", author_id | first %}
+
+				<li>{% include publications.html member=author %}</li>
+			</ul>
+		</div>
+		<div class="container">
+			<h2>Author</h2>
+			<ul class="image-grid">
+				{% assign author_id = page.author_staff_member | prepend: "/publications_co/" | append: "/" %}
+				{% assign author = site.publications_co | where: "url", author_id | first %}
 
 				<li>{% include publications.html member=author %}</li>
 			</ul>

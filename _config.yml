@@ -23,9 +23,11 @@ social:
 timezone: Etc/UTC
 
 collections:
-  publications:
+  publications_fa:
     output: false
-  clients:
+  publications_co:
+    output: false
+  bio:
     output: true
 
 paginate: 10
@@ -60,16 +62,24 @@ defaults:
           height: 2000
   - scope:
       path: ""
-      type: "clients"
+      type: "bio"
     values:
-      layout: "client"
+      layout: "bio"
       _options:
         image_path:
           width: 2000
           height: 2000
   - scope:
       path: ""
-      type: "publications"
+      type: "publications_fa"
+    values:
+      _options:
+        image_path:
+          width: 600
+          height: 600
+  - scope:
+      path: ""
+      type: "publications_co"
     values:
       _options:
         image_path:

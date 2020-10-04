@@ -35,14 +35,8 @@ title: DI
             </p>
         </div>
         <div>
-            <ul class="image-grid">
-                {% for member in site.publications limit: 2 %}
-                <li>href="{{ site.baseurl }}{{ member.external_url }}"
-                    <div class="square-image">
-                        <img
-                                src="{% include relative-src.html src=member.image_path %}"></div>
-                </li>
-                {% endfor %}
+            <ul class="image-list">
+                <li><img src="{{ site.baseurl }}/images/publications_fa/SRAEl.png" width="500"></li>
             </ul>
         </div>
     </div>
@@ -52,13 +46,12 @@ title: DI
     <div class="container halves">
         <div>
             <ul class="image-list">
-                <li><img src="{{ site.baseurl }}/images/IMG_1251.jpeg" width="500"
-                         style="margin-bottom: 40px;"></li>
+                <li><img src="{{ site.baseurl }}/images/IMG_1251.jpeg" width="500"></li>
             </ul>
         </div>
         <div>
             <h3 class="editable">Bio</h3>
-            <p class="editable">Here you can find more information about me</p>
+            <p class="editable">Here you can find more information about me.</p>
             <p class="editable"><a href="{{ site.baseurl }}/bio/">View full biography</a></p>
         </div>
     </div>
