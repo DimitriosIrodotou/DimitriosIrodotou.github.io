@@ -12,12 +12,7 @@ My studies in Physics started in 2009, when I was admitted through national exam
 the Physics Department of the University of Ioannina.
 
 As an undergraduate student, my interest in astronomy began with my participation in elective courses on Cosmology and 
-Astrophysics. Being interested in obtaining a deeper insight in the structures and morphology of the Universe, I took
-courses on Observational Astrophysics and Physics of Galaxies and the Planetary System.
-          
-During my postgraduate studies, the Stellar and Galactic Astrophysics and the Astrophysical Processes 
-courses gave me the opportunity to interpret the equations of stellar structure and dynamics, and to 
-understand the phenomena occurring in the interstellar and intergalactic media. Furthermore, the Cosmology 
-and the Extragalactic Astronomy modules strengthened my understanding of the equations describing the 
-expansion of the Universe, and the processes that govern the formation and evolution of galaxies along 
-with their interactions with the intergalactic medium.
+Astrophysics. Being interested in obtaining a deeper insight in physical and observational cosmology, I took courses
+on Observational Astrophysics and Physics of Galaxies and the Planetary System. These courses gave me the
+opportunity to study the structure and morphology of the Universe and strengthened my background. In addition, the
+Cosmology course further shaped my interest in cosmological models, dark matter and dark energy.
