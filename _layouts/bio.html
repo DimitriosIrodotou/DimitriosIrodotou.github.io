@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<!--{% assign publications_fa = site.pages | where: "path", "publications.html" | first %}-->
+<!--{% assign publications_co = site.pages | where: "path", "publications.html" | first %}-->
+{% assign bio = site.pages | where: "path", "bio.html" | first %}
+
+<section class="hero diagonal">
+	<div class="container">
+		{% if publications_co.heading %}
+		<h2><a href="{{ site.baseurl }}/publications_co/">{{ publications_co.heading }}</a> / {{ page.title |
+			capitalize }}</h2>
+		{% endif %}
+	</div>
+</section>
+
+<section class="diagonal">
+	<div class="container">
+		<p><img src="{% include relative-src.html src=page.image_path %}" ></p>
+		<div>
+			{{ content }}
+		</div>
+		<p><a href="{{ page.external_url }}">View {{ page.subtitle }} &rarr;</a></p>
+	</div>
+</section>
