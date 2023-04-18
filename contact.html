@@ -3,19 +3,14 @@ title: Contact
 heading: Feel free to get in touch!
 <!--subtitle: Here you can find my contact details.-->
 map:
-latitude: 60.16
-longitude: 24.94
-address: "Helsinki, Finland"
+latitude: 0
+longitude: 0
+address: ""
 zoom: 7
 ---
 
 <section class="diagonal patterned">
     <div class="container halves aligned-top">
-        <div>
-            <h3>Address</h3>
-            <address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{
-                page.map.address | replace: ", ", ", <br>" }}</a></address>
-        </div>
         <div>
             <h3>Email</h3>
             <p><a href="mailto:{{ site.data.company.contact_email_address }}">{{ site.data.company.contact_email_address
