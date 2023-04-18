@@ -1,0 +1,33 @@
+---
+title: Bio
+heading: Biography
+subtitle: ""
+---
+
+<section class="diagonal patterned">
+    <div class="container">
+        <h3 class="editable">
+            <p>
+                You can find a pdf version of my CV <a href="/Curriculum_Vitae.pdf" target="_blank">here</a>
+            </p>
+            Education
+        </h3>
+        <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_publications_fa/"
+                                                              class="btn"><strong>&#9998;</strong></a></p>
+        <ul class="image-grid">
+            {% for bio in site.bio reversed %}
+            <li>
+                <a href="{{ site.baseurl }}{{ bio.url }}">
+                    <img src="{% include relative-src.html src=bio.image_path %}" alt="{{ person.name }}">
+                    <div class="details">
+                        <div class="name">{{ bio.name }}</div>
+                        <div class="position">{{ bio.subtitle }}</div>
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+            <li class="filler"></li>
+            <li class="filler"></li>
+        </ul>
+    </div>
+</section>

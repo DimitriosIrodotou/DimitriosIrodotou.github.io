@@ -1,0 +1,45 @@
+---
+title: Publications
+heading: Publications
+subtitle: ""
+---
+
+<section class="diagonal patterned">
+    <div class="container">
+        <h3 class="editable">
+            <p>
+                I work on a diverse range of topics which are essential to our understanding of galaxy formation
+                and evolution: from global gravitational instabilities and the effects of AGN feedback on galactic
+                dynamics, to the formation of star clusters and the first galaxies during the Epoch of Reionisation.
+            </p>
+
+            <p>
+                <a
+                        href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Irodotou%2C%20Dimitrios%22&sort=citation_count%20desc%2C%20bibcode%20desc&p_=0">Here</a>,
+                 you can find an up-to-date list of my work sorted based on citation count. A pdf version of my CV
+                can be found <a href="/Curriculum_Vitae.pdf" target="_blank">here</a> (last edited April 2023).
+            </p>
+            First author publications
+        </h3>
+        <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_publications_fa/"
+                                                              class="btn"><strong>&#9998;</strong></a></p>
+        <ul class="image-grid">
+            {% for member in site.publications_fa reversed %}
+            <li>{% include publications.html member=member %}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="container">
+        <h3 class="editable">
+            Co-authored publications
+        </h3>
+        <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_publications_co/"
+                                                              class="btn"><strong>&#9998;</strong></a></p>
+        <ul class="image-grid">
+            {% for member in site.publications_co reversed %}
+            <li>{% include publications.html member=member %}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</section>
